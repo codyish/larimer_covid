@@ -13,4 +13,4 @@ With the eventual goal of determining
 
 Test links
 
-https://codyish.github.io/larimer_covid/case_figure.html
+[Daily Cases](https://codyish.github.io/larimer_covid/case_figure.html)
