@@ -1,5 +1,4 @@
-# larimer_covid
-Larimer Covid data
+#Larimer Covid data
 
 This will create an interactive dashboard of Larimer County covid data including daily and rolling average
 * Vaccinations
