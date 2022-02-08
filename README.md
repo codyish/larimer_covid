@@ -15,4 +15,3 @@ Test links
 [Daily Cases](https://codyish.github.io/larimer_covid/case_figure.html)
 
 
-x
