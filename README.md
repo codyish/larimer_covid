@@ -10,7 +10,6 @@ With the eventual goal of determining
 * the strongest time-lag correlation between case rate and hospitalizations and death.
 * Ratio of cases to hospitalizations and deaths over time.
 
-Test links
 
 [Daily Cases](https://codyish.github.io/larimer_covid/case_figure.html)
 
