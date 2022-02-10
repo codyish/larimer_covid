@@ -14,6 +14,6 @@ With the eventual goal of determining
 [Daily Cases](https://codyish.github.io/larimer_covid/case_figure.html)
 
 
-![pages-build-deployment](https://github.com/codyish/larimer_covid/actions/workflows/pages/pages-build-deployment/badge.svg)
+
 
 
