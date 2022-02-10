@@ -25,7 +25,7 @@ iframe below
 <iframe src="https://www.datamidden.com/larimer_covid/vac_figure.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height=600
+    height=700
     scrolling="no"
     seamless="seamless"
     frameborder="0">
