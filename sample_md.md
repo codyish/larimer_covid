@@ -15,7 +15,8 @@ def a function
 
 JS autoload static version below
 
-<script src="snippet" id="c809f568-d1e4-4206-88b4-c1c4db4cc17c"></script>
+
+<script src="fig_embeds/vac" id="2963d9eb-2118-436a-a020-12481cd48aaf"></script>
 
 
 _link_
