@@ -18,7 +18,7 @@ def a function
 JS autoload static version below
 
 
-<script type="text/javascript" src="fig_embeds/vac" id="2963d9eb-2118-436a-a020-12481cd48aaf"></script>
+<script src="larimer_covid/blob/main/fig_embeds/vac.js" id="8999b494-ed6a-4d6e-89c6-6ef73631a8a9"></script>
 
 
 _link_
