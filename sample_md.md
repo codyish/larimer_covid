@@ -30,6 +30,7 @@ iframe below
     seamless="seamless"
     frameborder="0">
 
+
 <iframe src="https://www.datamidden.com/larimer_covid/case_figure.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -38,6 +39,7 @@ iframe below
     seamless="seamless"
     frameborder="0">
 
+
 <iframe src="https://www.datamidden.com/larimer_covid/deaths_figure.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -45,6 +47,7 @@ iframe below
     scrolling="no"
     seamless="seamless"
     frameborder="0">
+
 
 <iframe src="https://www.datamidden.com/larimer_covid/hosp_figure.html"
     sandbox="allow-same-origin allow-scripts"
