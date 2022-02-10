@@ -72530,809 +72530,905 @@
 72528,74732,2022-02-05,Female,31.0,Confirmed,Fort Collins
 72529,74733,2022-02-05,Male,31.0,Confirmed,Fort Collins
 72530,74734,2022-02-05,Female,31.0,Confirmed,Fort Collins
-72531,74735,2022-02-05,Male,32.0,Confirmed,Fort Collins
-72532,74736,2022-02-05,Male,32.0,Probable,Fort Collins
-72533,74737,2022-02-05,Female,32.0,Confirmed,Fort Collins
-72534,74738,2022-02-05,Male,32.0,Confirmed,Fort Collins
-72535,74739,2022-02-05,Female,32.0,Confirmed,Loveland
-72536,74740,2022-02-05,Male,32.0,Confirmed,Fort Collins
-72537,74741,2022-02-05,Female,32.0,Confirmed,Timnath
-72538,74742,2022-02-05,Male,32.0,Confirmed,Loveland
-72539,74743,2022-02-05,Female,33.0,Confirmed,Fort Collins
-72540,74744,2022-02-05,Male,34.0,Probable,Fort Collins
-72541,74745,2022-02-05,Female,34.0,Probable,Fort Collins
-72542,74746,2022-02-05,Male,34.0,Confirmed,Fort Collins
-72543,74747,2022-02-05,Male,34.0,Confirmed,Berthoud
-72544,74748,2022-02-05,Male,34.0,Confirmed,Loveland
-72545,74749,2022-02-05,Male,34.0,Confirmed,Wellington
-72546,74751,2022-02-05,Male,36.0,Confirmed,Wellington
-72547,74752,2022-02-05,Male,36.0,Probable,Fort Collins
-72548,74753,2022-02-05,Male,36.0,Confirmed,Fort Collins
-72549,74754,2022-02-05,Female,36.0,Confirmed,Windsor
-72550,74755,2022-02-05,Male,36.0,Confirmed,Timnath
-72551,74756,2022-02-05,Female,36.0,Confirmed,Berthoud
-72552,74757,2022-02-05,Female,36.0,Confirmed,Loveland
-72553,74758,2022-02-05,Male,36.0,Confirmed,Loveland
-72554,74759,2022-02-05,Female,36.0,Confirmed,Fort Collins
-72555,74760,2022-02-05,Female,37.0,Confirmed,Fort Collins
+72531,74735,2022-02-05,Male,31.0,Confirmed,Loveland
+72532,74736,2022-02-05,Male,32.0,Confirmed,Fort Collins
+72533,74737,2022-02-05,Male,32.0,Probable,Fort Collins
+72534,74738,2022-02-05,Female,32.0,Confirmed,Fort Collins
+72535,74739,2022-02-05,Male,32.0,Confirmed,Fort Collins
+72536,74740,2022-02-05,Female,32.0,Confirmed,Loveland
+72537,74741,2022-02-05,Male,32.0,Confirmed,Fort Collins
+72538,74742,2022-02-05,Female,32.0,Confirmed,Timnath
+72539,74743,2022-02-05,Male,32.0,Confirmed,Loveland
+72540,74744,2022-02-05,Female,33.0,Confirmed,Fort Collins
+72541,74745,2022-02-05,Male,34.0,Probable,Fort Collins
+72542,74746,2022-02-05,Female,34.0,Probable,Fort Collins
+72543,74747,2022-02-05,Male,34.0,Confirmed,Fort Collins
+72544,74748,2022-02-05,Male,34.0,Confirmed,Berthoud
+72545,74749,2022-02-05,Male,34.0,Confirmed,Loveland
+72546,74750,2022-02-05,Male,34.0,Confirmed,Wellington
+72547,74752,2022-02-05,Male,36.0,Confirmed,Wellington
+72548,74753,2022-02-05,Male,36.0,Probable,Fort Collins
+72549,74754,2022-02-05,Male,36.0,Confirmed,Fort Collins
+72550,74755,2022-02-05,Female,36.0,Confirmed,Windsor
+72551,74756,2022-02-05,Male,36.0,Confirmed,Timnath
+72552,74757,2022-02-05,Female,36.0,Confirmed,Berthoud
+72553,74758,2022-02-05,Female,36.0,Confirmed,Loveland
+72554,74759,2022-02-05,Male,36.0,Confirmed,Loveland
+72555,74760,2022-02-05,Female,36.0,Confirmed,Fort Collins
 72556,74761,2022-02-05,Female,37.0,Confirmed,Fort Collins
-72557,74762,2022-02-05,Female,37.0,Confirmed,Timnath
-72558,74763,2022-02-05,Male,37.0,Confirmed,Fort Collins
-72559,74764,2022-02-05,Female,37.0,Confirmed,Estes Park
-72560,74765,2022-02-05,Female,38.0,Confirmed,Loveland
-72561,74766,2022-02-05,Male,38.0,Confirmed,Wellington
-72562,74767,2022-02-05,Male,38.0,Confirmed,Loveland
-72563,74768,2022-02-05,Female,38.0,Confirmed,Fort Collins
-72564,74769,2022-02-05,Male,39.0,Confirmed,Loveland
-72565,74770,2022-02-05,Female,40.0,Confirmed,Loveland
+72557,74762,2022-02-05,Female,37.0,Confirmed,Fort Collins
+72558,74763,2022-02-05,Female,37.0,Confirmed,Timnath
+72559,74764,2022-02-05,Male,37.0,Confirmed,Fort Collins
+72560,74765,2022-02-05,Female,37.0,Confirmed,Estes Park
+72561,74766,2022-02-05,Female,38.0,Confirmed,Loveland
+72562,74767,2022-02-05,Male,38.0,Confirmed,Wellington
+72563,74768,2022-02-05,Male,38.0,Confirmed,Loveland
+72564,74769,2022-02-05,Female,38.0,Confirmed,Fort Collins
+72565,74770,2022-02-05,Male,39.0,Confirmed,Loveland
 72566,74771,2022-02-05,Female,40.0,Confirmed,Loveland
 72567,74772,2022-02-05,Female,40.0,Confirmed,Loveland
-72568,74773,2022-02-05,Male,41.0,Confirmed,Fort Collins
-72569,74774,2022-02-05,Female,41.0,Confirmed,Fort Collins
-72570,74775,2022-02-05,Female,41.0,Confirmed,Loveland
-72571,74776,2022-02-05,Female,41.0,Confirmed,Fort Collins
-72572,74777,2022-02-05,Male,41.0,Confirmed,Fort Collins
-72573,74778,2022-02-05,Female,42.0,Confirmed,Estes Park
-72574,74779,2022-02-05,Female,42.0,Probable,Windsor
-72575,74780,2022-02-05,Male,42.0,Confirmed,Fort Collins
+72568,74773,2022-02-05,Female,40.0,Confirmed,Loveland
+72569,74774,2022-02-05,Male,41.0,Confirmed,Fort Collins
+72570,74775,2022-02-05,Female,41.0,Confirmed,Fort Collins
+72571,74776,2022-02-05,Female,41.0,Confirmed,Loveland
+72572,74777,2022-02-05,Female,41.0,Confirmed,Fort Collins
+72573,74778,2022-02-05,Male,41.0,Confirmed,Fort Collins
+72574,74779,2022-02-05,Female,42.0,Confirmed,Estes Park
+72575,74780,2022-02-05,Female,42.0,Probable,Windsor
 72576,74781,2022-02-05,Male,42.0,Confirmed,Fort Collins
-72577,74782,2022-02-05,Male,42.0,Confirmed,Loveland
-72578,74783,2022-02-05,Male,43.0,Probable,Fort Collins
-72579,74784,2022-02-05,Female,44.0,Confirmed,Fort Collins
+72577,74782,2022-02-05,Male,42.0,Confirmed,Fort Collins
+72578,74783,2022-02-05,Male,42.0,Confirmed,Loveland
+72579,74784,2022-02-05,Male,43.0,Probable,Fort Collins
 72580,74785,2022-02-05,Female,44.0,Confirmed,Fort Collins
-72581,74786,2022-02-05,Female,44.0,Confirmed,Bellvue
-72582,74787,2022-02-05,Female,44.0,Confirmed,Loveland
-72583,74788,2022-02-05,Male,44.0,Confirmed,Fort Collins
+72581,74786,2022-02-05,Female,44.0,Confirmed,Fort Collins
+72582,74787,2022-02-05,Female,44.0,Confirmed,Bellvue
+72583,74788,2022-02-05,Female,44.0,Confirmed,Loveland
 72584,74789,2022-02-05,Male,44.0,Confirmed,Fort Collins
-72585,74790,2022-02-05,Unknown,45.0,Probable,Fort Collins
-72586,74791,2022-02-05,Male,46.0,Confirmed,Loveland
-72587,74792,2022-02-05,Male,46.0,Confirmed,Fort Collins
+72585,74790,2022-02-05,Male,44.0,Confirmed,Fort Collins
+72586,74791,2022-02-05,Unknown,45.0,Probable,Fort Collins
+72587,74792,2022-02-05,Male,46.0,Confirmed,Loveland
 72588,74793,2022-02-05,Male,46.0,Confirmed,Fort Collins
-72589,74794,2022-02-05,Male,47.0,Confirmed,Loveland
-72590,74795,2022-02-05,Female,47.0,Confirmed,Fort Collins
-72591,74796,2022-02-05,Male,48.0,Confirmed,Fort Collins
-72592,74797,2022-02-05,Female,49.0,Confirmed,Loveland
+72589,74794,2022-02-05,Male,46.0,Confirmed,Fort Collins
+72590,74795,2022-02-05,Male,47.0,Confirmed,Loveland
+72591,74796,2022-02-05,Female,47.0,Confirmed,Fort Collins
+72592,74797,2022-02-05,Male,48.0,Confirmed,Fort Collins
 72593,74798,2022-02-05,Female,49.0,Confirmed,Loveland
-72594,74799,2022-02-05,Male,49.0,Confirmed,Loveland
-72595,74800,2022-02-05,Female,49.0,Confirmed,Loveland
-72596,74801,2022-02-05,Female,50.0,Probable,Fort Collins
-72597,74802,2022-02-05,Male,50.0,Confirmed,Fort Collins
+72594,74799,2022-02-05,Female,49.0,Confirmed,Loveland
+72595,74800,2022-02-05,Male,49.0,Confirmed,Loveland
+72596,74801,2022-02-05,Female,49.0,Confirmed,Loveland
+72597,74802,2022-02-05,Female,50.0,Probable,Fort Collins
 72598,74803,2022-02-05,Male,50.0,Confirmed,Fort Collins
-72599,74804,2022-02-05,Female,51.0,Probable,Wellington
-72600,74805,2022-02-05,Female,51.0,Confirmed,Loveland
-72601,74806,2022-02-05,Male,51.0,Confirmed,Loveland
-72602,74807,2022-02-05,Male,52.0,Confirmed,Fort Collins
-72603,74808,2022-02-05,Male,54.0,Confirmed,Wellington
-72604,74809,2022-02-05,Male,54.0,Confirmed,Loveland
-72605,74810,2022-02-05,Female,55.0,Confirmed,Fort Collins
-72606,74811,2022-02-05,Male,56.0,Confirmed,Fort Collins
-72607,74812,2022-02-05,Female,56.0,Confirmed,Loveland
-72608,74813,2022-02-05,Male,57.0,Confirmed,Windsor
-72609,74814,2022-02-05,Male,57.0,Confirmed,Berthoud
-72610,74815,2022-02-05,Female,57.0,Probable,Fort Collins
-72611,74816,2022-02-05,Female,58.0,Confirmed,Windsor
-72612,74817,2022-02-05,Female,59.0,Confirmed,Fort Collins
-72613,74818,2022-02-05,Male,60.0,Confirmed,Berthoud
-72614,74819,2022-02-05,Male,61.0,Confirmed,Fort Collins
-72615,74820,2022-02-05,Female,62.0,Confirmed,Fort Collins
-72616,74821,2022-02-05,Male,63.0,Confirmed,Fort Collins
-72617,74822,2022-02-05,Female,64.0,Confirmed,Fort Collins
-72618,74823,2022-02-05,Male,64.0,Confirmed,Berthoud
-72619,74824,2022-02-05,Male,65.0,Confirmed,Fort Collins
-72620,74825,2022-02-05,Female,65.0,Confirmed,Loveland
-72621,74826,2022-02-05,Male,65.0,Confirmed,Loveland
-72622,74827,2022-02-05,Female,65.0,Confirmed,Fort Collins
-72623,74828,2022-02-05,Female,66.0,Confirmed,Loveland
-72624,74829,2022-02-05,Female,67.0,Confirmed,Berthoud
-72625,74830,2022-02-05,Male,67.0,Confirmed,LaPorte
-72626,74831,2022-02-05,Male,68.0,Confirmed,Loveland
-72627,74832,2022-02-05,Female,68.0,Confirmed,Loveland
-72628,74833,2022-02-05,Male,68.0,Confirmed,Loveland
-72629,74834,2022-02-05,Male,70.0,Confirmed,Fort Collins
-72630,74835,2022-02-05,Female,72.0,Probable,Fort Collins
-72631,74836,2022-02-05,Female,73.0,Confirmed,Fort Collins
-72632,74837,2022-02-05,Male,74.0,Confirmed,Fort Collins
-72633,74838,2022-02-05,Female,74.0,Confirmed,Loveland
-72634,74839,2022-02-05,Female,75.0,Probable,Fort Collins
-72635,74840,2022-02-05,Male,75.0,Confirmed,Fort Collins
-72636,74841,2022-02-05,Male,76.0,Confirmed,Loveland
-72637,74842,2022-02-05,Female,79.0,Confirmed,Loveland
-72638,74843,2022-02-05,Male,80.0,Probable,Fort Collins
-72639,74844,2022-02-05,Male,81.0,Confirmed,Fort Collins
-72640,74845,2022-02-05,Male,86.0,Confirmed,Fort Collins
-72641,74846,2022-02-05,Female,88.0,Confirmed,Fort Collins
-72642,74847,2022-02-05,Female,90.0,Confirmed,Fort Collins
+72599,74804,2022-02-05,Male,50.0,Confirmed,Fort Collins
+72600,74805,2022-02-05,Female,51.0,Probable,Wellington
+72601,74806,2022-02-05,Female,51.0,Confirmed,Loveland
+72602,74807,2022-02-05,Male,51.0,Confirmed,Loveland
+72603,74808,2022-02-05,Male,52.0,Confirmed,Fort Collins
+72604,74809,2022-02-05,Male,54.0,Confirmed,Wellington
+72605,74810,2022-02-05,Male,54.0,Confirmed,Loveland
+72606,74811,2022-02-05,Female,55.0,Confirmed,Fort Collins
+72607,74812,2022-02-05,Male,56.0,Confirmed,Fort Collins
+72608,74813,2022-02-05,Female,56.0,Confirmed,Loveland
+72609,74814,2022-02-05,Male,57.0,Confirmed,Windsor
+72610,74815,2022-02-05,Male,57.0,Confirmed,Berthoud
+72611,74816,2022-02-05,Female,57.0,Probable,Fort Collins
+72612,74817,2022-02-05,Female,58.0,Confirmed,Windsor
+72613,74818,2022-02-05,Female,59.0,Confirmed,Fort Collins
+72614,74819,2022-02-05,Male,60.0,Confirmed,Berthoud
+72615,74820,2022-02-05,Male,61.0,Confirmed,Fort Collins
+72616,74821,2022-02-05,Female,62.0,Confirmed,Fort Collins
+72617,74822,2022-02-05,Male,63.0,Confirmed,Fort Collins
+72618,74823,2022-02-05,Female,64.0,Confirmed,Fort Collins
+72619,74824,2022-02-05,Male,64.0,Confirmed,Berthoud
+72620,74825,2022-02-05,Male,65.0,Confirmed,Fort Collins
+72621,74826,2022-02-05,Female,65.0,Confirmed,Loveland
+72622,74827,2022-02-05,Male,65.0,Confirmed,Loveland
+72623,74828,2022-02-05,Female,65.0,Confirmed,Fort Collins
+72624,74829,2022-02-05,Female,66.0,Confirmed,Loveland
+72625,74830,2022-02-05,Female,67.0,Confirmed,Berthoud
+72626,74831,2022-02-05,Male,67.0,Confirmed,LaPorte
+72627,74832,2022-02-05,Male,68.0,Confirmed,Loveland
+72628,74833,2022-02-05,Female,68.0,Confirmed,Loveland
+72629,74834,2022-02-05,Male,68.0,Confirmed,Loveland
+72630,74835,2022-02-05,Male,70.0,Confirmed,Fort Collins
+72631,74836,2022-02-05,Female,72.0,Probable,Fort Collins
+72632,74837,2022-02-05,Female,73.0,Confirmed,Fort Collins
+72633,74838,2022-02-05,Male,74.0,Confirmed,Fort Collins
+72634,74839,2022-02-05,Female,74.0,Confirmed,Loveland
+72635,74840,2022-02-05,Female,75.0,Probable,Fort Collins
+72636,74841,2022-02-05,Male,75.0,Confirmed,Fort Collins
+72637,74842,2022-02-05,Male,76.0,Confirmed,Loveland
+72638,74843,2022-02-05,Female,79.0,Confirmed,Loveland
+72639,74844,2022-02-05,Male,80.0,Probable,Fort Collins
+72640,74845,2022-02-05,Male,81.0,Confirmed,Fort Collins
+72641,74846,2022-02-05,Male,86.0,Confirmed,Fort Collins
+72642,74847,2022-02-05,Female,88.0,Confirmed,Fort Collins
 72643,74848,2022-02-05,Female,90.0,Confirmed,Fort Collins
-72644,74849,2022-02-05,Female,91.0,Confirmed,Fort Collins
-72645,74850,2022-02-05,Female,92.0,Confirmed,Fort Collins
-72646,74851,2022-02-05,Female,99.0,Probable,Fort Collins
-72647,74852,2022-02-06,Female,0.0,Probable,Loveland
-72648,74853,2022-02-06,Male,3.0,Confirmed,Berthoud
-72649,74854,2022-02-06,Male,4.0,Confirmed,Loveland
+72644,74849,2022-02-05,Female,90.0,Confirmed,Fort Collins
+72645,74850,2022-02-05,Female,91.0,Confirmed,Fort Collins
+72646,74851,2022-02-05,Female,92.0,Confirmed,Fort Collins
+72647,74852,2022-02-05,Female,99.0,Probable,Fort Collins
+72648,74853,2022-02-06,Female,0.0,Probable,Loveland
+72649,74854,2022-02-06,Male,3.0,Confirmed,Berthoud
 72650,74855,2022-02-06,Male,4.0,Confirmed,Loveland
-72651,74856,2022-02-06,Male,5.0,Confirmed,Fort Collins
-72652,74857,2022-02-06,Female,5.0,Confirmed,Fort Collins
-72653,74858,2022-02-06,Female,6.0,Confirmed,Fort Collins
+72651,74856,2022-02-06,Male,4.0,Confirmed,Loveland
+72652,74857,2022-02-06,Male,5.0,Confirmed,Fort Collins
+72653,74858,2022-02-06,Female,5.0,Confirmed,Fort Collins
 72654,74859,2022-02-06,Female,6.0,Confirmed,Fort Collins
-72655,74860,2022-02-06,Male,7.0,Confirmed,Berthoud
-72656,74861,2022-02-06,Female,7.0,Confirmed,Fort Collins
-72657,74862,2022-02-06,Male,8.0,Confirmed,Fort Collins
-72658,74863,2022-02-06,Male,8.0,Confirmed,Loveland
-72659,74864,2022-02-06,Male,10.0,Confirmed,Fort Collins
-72660,74865,2022-02-06,Male,10.0,Confirmed,Berthoud
-72661,74866,2022-02-06,Female,11.0,Confirmed,Fort Collins
-72662,74867,2022-02-06,Male,11.0,Confirmed,Loveland
-72663,74868,2022-02-06,Female,11.0,Confirmed,Fort Collins
-72664,74869,2022-02-06,Female,11.0,Probable,Fort Collins
-72665,74870,2022-02-06,Male,11.0,Confirmed,Fort Collins
-72666,74871,2022-02-06,Male,12.0,Probable,Loveland
-72667,74872,2022-02-06,Female,13.0,Confirmed,Fort Collins
-72668,74873,2022-02-06,Female,17.0,Confirmed,Fort Collins
-72669,74874,2022-02-06,Unknown,17.0,Probable,Fort Collins
-72670,74876,2022-02-06,Female,18.0,Confirmed,Fort Collins
-72671,74877,2022-02-06,Female,19.0,Probable,Fort Collins
-72672,74879,2022-02-06,Female,19.0,Confirmed,Loveland
-72673,74880,2022-02-06,Female,21.0,Probable,Fort Collins
+72655,74860,2022-02-06,Female,6.0,Confirmed,Fort Collins
+72656,74861,2022-02-06,Male,7.0,Confirmed,Berthoud
+72657,74862,2022-02-06,Female,7.0,Confirmed,Fort Collins
+72658,74863,2022-02-06,Male,8.0,Confirmed,Fort Collins
+72659,74864,2022-02-06,Male,8.0,Confirmed,Loveland
+72660,74865,2022-02-06,Male,10.0,Confirmed,Fort Collins
+72661,74866,2022-02-06,Male,10.0,Confirmed,Berthoud
+72662,74867,2022-02-06,Female,11.0,Confirmed,Fort Collins
+72663,74868,2022-02-06,Male,11.0,Confirmed,Loveland
+72664,74869,2022-02-06,Female,11.0,Confirmed,Fort Collins
+72665,74870,2022-02-06,Female,11.0,Probable,Fort Collins
+72666,74871,2022-02-06,Male,11.0,Confirmed,Fort Collins
+72667,74872,2022-02-06,Male,12.0,Probable,Loveland
+72668,74873,2022-02-06,Female,13.0,Confirmed,Fort Collins
+72669,74874,2022-02-06,Female,17.0,Confirmed,Fort Collins
+72670,74875,2022-02-06,Unknown,17.0,Probable,Fort Collins
+72671,74877,2022-02-06,Female,18.0,Confirmed,Fort Collins
+72672,74878,2022-02-06,Female,19.0,Probable,Fort Collins
+72673,74880,2022-02-06,Female,19.0,Confirmed,Loveland
 72674,74881,2022-02-06,Female,21.0,Probable,Fort Collins
 72675,74882,2022-02-06,Female,21.0,Probable,Fort Collins
-72676,74883,2022-02-06,Female,21.0,Confirmed,Fort Collins
-72677,74885,2022-02-06,Male,22.0,Confirmed,Fort Collins
-72678,74886,2022-02-06,Male,23.0,Probable,Fort Collins
-72679,74888,2022-02-06,Female,23.0,Confirmed,Loveland
-72680,74889,2022-02-06,Female,24.0,Confirmed,Fort Collins
-72681,74890,2022-02-06,Male,24.0,Confirmed,Loveland
-72682,74891,2022-02-06,Female,24.0,Confirmed,Berthoud
-72683,74892,2022-02-06,Male,24.0,Confirmed,Timnath
-72684,74893,2022-02-06,Female,25.0,Confirmed,Loveland
-72685,74895,2022-02-06,Male,30.0,Confirmed,Fort Collins
-72686,74896,2022-02-06,Male,31.0,Confirmed,Loveland
-72687,74897,2022-02-06,Female,31.0,Confirmed,Fort Collins
-72688,74898,2022-02-06,Female,32.0,Confirmed,Fort Collins
-72689,74899,2022-02-06,Female,32.0,Confirmed,Johnstown
-72690,74900,2022-02-06,Female,32.0,Confirmed,Timnath
-72691,74901,2022-02-06,Male,33.0,Confirmed,Loveland
-72692,74902,2022-02-06,Female,34.0,Confirmed,Berthoud
-72693,74903,2022-02-06,Unknown,34.0,Probable,Fort Collins
-72694,74904,2022-02-06,Male,34.0,Confirmed,Fort Collins
-72695,74905,2022-02-06,Female,35.0,Confirmed,Berthoud
-72696,74906,2022-02-06,Female,35.0,Confirmed,Estes Park
-72697,74907,2022-02-06,Female,35.0,Confirmed,Timnath
-72698,74909,2022-02-06,Female,37.0,Confirmed,Fort Collins
-72699,74910,2022-02-06,Male,37.0,Confirmed,Fort Collins
-72700,74911,2022-02-06,Male,38.0,Probable,Fort Collins
-72701,74912,2022-02-06,Female,38.0,Confirmed,Fort Collins
-72702,74913,2022-02-06,Male,39.0,Confirmed,Loveland
-72703,74914,2022-02-06,Female,39.0,Confirmed,Loveland
-72704,74915,2022-02-06,Unknown,39.0,Probable,Fort Collins
-72705,74916,2022-02-06,Female,40.0,Probable,Fort Collins
-72706,74917,2022-02-06,Female,40.0,Confirmed,Fort Collins
-72707,74918,2022-02-06,Female,41.0,Confirmed,Fort Collins
-72708,74919,2022-02-06,Male,41.0,Confirmed,Berthoud
-72709,74920,2022-02-06,Female,42.0,Confirmed,Berthoud
-72710,74921,2022-02-06,Female,43.0,Confirmed,Berthoud
-72711,74922,2022-02-06,Male,44.0,Confirmed,Loveland
-72712,74923,2022-02-06,Female,44.0,Probable,Fort Collins
-72713,74924,2022-02-06,Female,44.0,Confirmed,Fort Collins
-72714,74925,2022-02-06,Female,44.0,Confirmed,Wellington
-72715,74926,2022-02-06,Unknown,44.0,Probable,Wellington
-72716,74927,2022-02-06,Female,46.0,Confirmed,Loveland
-72717,74928,2022-02-06,Unknown,46.0,Probable,Fort Collins
-72718,74929,2022-02-06,Male,47.0,Confirmed,Fort Collins
-72719,74930,2022-02-06,Female,47.0,Confirmed,Fort Collins
-72720,74931,2022-02-06,Male,47.0,Confirmed,Loveland
-72721,74932,2022-02-06,Female,49.0,Confirmed,Loveland
-72722,74933,2022-02-06,Female,50.0,Confirmed,Fort Collins
-72723,74934,2022-02-06,Female,51.0,Confirmed,Fort Collins
-72724,74935,2022-02-06,Male,52.0,Probable,Berthoud
-72725,74936,2022-02-06,Female,52.0,Confirmed,Fort Collins
-72726,74937,2022-02-06,Female,52.0,Confirmed,Windsor
-72727,74938,2022-02-06,Female,53.0,Confirmed,Windsor
-72728,74939,2022-02-06,Male,53.0,Confirmed,Loveland
-72729,74940,2022-02-06,Female,53.0,Confirmed,Fort Collins
-72730,74941,2022-02-06,Female,53.0,Confirmed,Wellington
-72731,74942,2022-02-06,Female,55.0,Confirmed,Fort Collins
-72732,74943,2022-02-06,Unknown,55.0,Probable,Fort Collins
-72733,74944,2022-02-06,Female,56.0,Confirmed,Windsor
-72734,74945,2022-02-06,Male,56.0,Confirmed,Loveland
-72735,74946,2022-02-06,Female,57.0,Confirmed,Berthoud
-72736,74948,2022-02-06,Male,59.0,Confirmed,Windsor
-72737,74949,2022-02-06,Female,60.0,Confirmed,Fort Collins
+72676,74883,2022-02-06,Female,21.0,Probable,Fort Collins
+72677,74884,2022-02-06,Female,21.0,Confirmed,Fort Collins
+72678,74886,2022-02-06,Male,22.0,Confirmed,Fort Collins
+72679,74887,2022-02-06,Male,23.0,Probable,Fort Collins
+72680,74889,2022-02-06,Female,23.0,Confirmed,Loveland
+72681,74890,2022-02-06,Female,24.0,Confirmed,Fort Collins
+72682,74891,2022-02-06,Male,24.0,Confirmed,Loveland
+72683,74892,2022-02-06,Female,24.0,Confirmed,Berthoud
+72684,74893,2022-02-06,Male,24.0,Confirmed,Timnath
+72685,74894,2022-02-06,Female,25.0,Confirmed,Loveland
+72686,74896,2022-02-06,Male,30.0,Confirmed,Fort Collins
+72687,74897,2022-02-06,Male,31.0,Confirmed,Loveland
+72688,74898,2022-02-06,Female,31.0,Confirmed,Fort Collins
+72689,74899,2022-02-06,Female,32.0,Confirmed,Fort Collins
+72690,74900,2022-02-06,Female,32.0,Confirmed,Johnstown
+72691,74901,2022-02-06,Female,32.0,Confirmed,Timnath
+72692,74902,2022-02-06,Male,33.0,Confirmed,Loveland
+72693,74903,2022-02-06,Female,34.0,Confirmed,Berthoud
+72694,74904,2022-02-06,Unknown,34.0,Probable,Fort Collins
+72695,74905,2022-02-06,Male,34.0,Confirmed,Fort Collins
+72696,74906,2022-02-06,Female,35.0,Confirmed,Berthoud
+72697,74907,2022-02-06,Female,35.0,Confirmed,Estes Park
+72698,74908,2022-02-06,Female,35.0,Confirmed,Timnath
+72699,74910,2022-02-06,Female,37.0,Confirmed,Fort Collins
+72700,74911,2022-02-06,Male,37.0,Confirmed,Fort Collins
+72701,74912,2022-02-06,Male,38.0,Probable,Fort Collins
+72702,74913,2022-02-06,Female,38.0,Confirmed,Fort Collins
+72703,74914,2022-02-06,Male,39.0,Confirmed,Loveland
+72704,74915,2022-02-06,Female,39.0,Confirmed,Loveland
+72705,74916,2022-02-06,Unknown,39.0,Probable,Fort Collins
+72706,74917,2022-02-06,Female,40.0,Probable,Fort Collins
+72707,74918,2022-02-06,Female,40.0,Confirmed,Fort Collins
+72708,74919,2022-02-06,Female,41.0,Confirmed,Fort Collins
+72709,74920,2022-02-06,Male,41.0,Confirmed,Berthoud
+72710,74921,2022-02-06,Female,42.0,Confirmed,Berthoud
+72711,74922,2022-02-06,Female,43.0,Confirmed,Berthoud
+72712,74923,2022-02-06,Male,44.0,Confirmed,Loveland
+72713,74924,2022-02-06,Female,44.0,Probable,Fort Collins
+72714,74925,2022-02-06,Female,44.0,Confirmed,Fort Collins
+72715,74926,2022-02-06,Female,44.0,Confirmed,Wellington
+72716,74927,2022-02-06,Unknown,44.0,Probable,Wellington
+72717,74928,2022-02-06,Female,46.0,Confirmed,Loveland
+72718,74929,2022-02-06,Unknown,46.0,Probable,Fort Collins
+72719,74930,2022-02-06,Male,47.0,Confirmed,Fort Collins
+72720,74931,2022-02-06,Female,47.0,Confirmed,Fort Collins
+72721,74932,2022-02-06,Male,47.0,Confirmed,Loveland
+72722,74933,2022-02-06,Female,49.0,Confirmed,Loveland
+72723,74934,2022-02-06,Female,50.0,Confirmed,Fort Collins
+72724,74935,2022-02-06,Female,51.0,Confirmed,Fort Collins
+72725,74936,2022-02-06,Male,52.0,Probable,Berthoud
+72726,74937,2022-02-06,Female,52.0,Confirmed,Fort Collins
+72727,74938,2022-02-06,Female,52.0,Confirmed,Windsor
+72728,74939,2022-02-06,Female,53.0,Confirmed,Windsor
+72729,74940,2022-02-06,Male,53.0,Confirmed,Loveland
+72730,74941,2022-02-06,Female,53.0,Confirmed,Fort Collins
+72731,74942,2022-02-06,Female,53.0,Confirmed,Wellington
+72732,74943,2022-02-06,Female,55.0,Confirmed,Fort Collins
+72733,74944,2022-02-06,Unknown,55.0,Probable,Fort Collins
+72734,74945,2022-02-06,Female,56.0,Confirmed,Windsor
+72735,74946,2022-02-06,Male,56.0,Confirmed,Loveland
+72736,74947,2022-02-06,Female,57.0,Confirmed,Berthoud
+72737,74949,2022-02-06,Male,59.0,Confirmed,Windsor
 72738,74950,2022-02-06,Female,60.0,Confirmed,Fort Collins
-72739,74951,2022-02-06,Female,61.0,Confirmed,Loveland
-72740,74952,2022-02-06,Female,64.0,Confirmed,Fort Collins
-72741,74953,2022-02-06,Female,65.0,Confirmed,Loveland
-72742,74954,2022-02-06,Female,67.0,Confirmed,Berthoud
-72743,74955,2022-02-06,Female,70.0,Confirmed,Berthoud
-72744,74956,2022-02-06,Female,70.0,Confirmed,Loveland
-72745,74957,2022-02-06,Male,71.0,Confirmed,Loveland
-72746,74958,2022-02-06,Male,82.0,Confirmed,Fort Collins
-72747,74959,2022-02-06,Male,91.0,Confirmed,Wellington
-72748,74960,2022-02-06,Female,93.0,Confirmed,Loveland
-72749,74961,2022-02-06,Male,95.0,Confirmed,Loveland
-72750,74962,2022-02-06,Female,96.0,Confirmed,Fort Collins
-72751,74963,2022-02-07,Male,0.0,Confirmed,Loveland
-72752,74964,2022-02-07,Female,0.0,Probable,Fort Collins
-72753,74965,2022-02-07,Male,1.0,Confirmed,Fort Collins
-72754,74966,2022-02-07,Male,1.0,Confirmed,Berthoud
-72755,74967,2022-02-07,Male,2.0,Confirmed,Loveland
-72756,74968,2022-02-07,Male,2.0,Probable,Fort Collins
-72757,74969,2022-02-07,Male,3.0,Confirmed,Wellington
-72758,74970,2022-02-07,Female,3.0,Confirmed,Berthoud
-72759,74971,2022-02-07,Female,4.0,Confirmed,Loveland
-72760,74972,2022-02-07,Female,4.0,Confirmed,Wellington
-72761,74974,2022-02-07,Female,5.0,Probable,Fort Collins
-72762,74975,2022-02-07,Female,5.0,Confirmed,Fort Collins
-72763,74976,2022-02-07,Female,5.0,Probable,Loveland
-72764,74977,2022-02-07,Female,6.0,Confirmed,Loveland
-72765,74978,2022-02-07,Male,6.0,Confirmed,Wellington
-72766,74979,2022-02-07,Female,7.0,Probable,Fort Collins
-72767,74980,2022-02-07,Male,7.0,Confirmed,Loveland
-72768,74981,2022-02-07,Female,8.0,Confirmed,Fort Collins
-72769,74982,2022-02-07,Unknown,8.0,Probable,Fort Collins
-72770,74983,2022-02-07,Female,9.0,Confirmed,Fort Collins
-72771,74984,2022-02-07,Female,9.0,Confirmed,Fort Collins
-72772,74985,2022-02-07,Female,9.0,Probable,Fort Collins
-72773,74986,2022-02-07,Female,10.0,Confirmed,Loveland
-72774,74987,2022-02-07,Male,11.0,Probable,Fort Collins
-72775,74988,2022-02-07,Male,11.0,Confirmed,Fort Collins
-72776,74989,2022-02-07,Male,11.0,Probable,Loveland
-72777,74990,2022-02-07,Female,11.0,Probable,Fort Collins
-72778,74991,2022-02-07,Female,12.0,Confirmed,Loveland
-72779,74992,2022-02-07,Female,13.0,Confirmed,Loveland
-72780,74993,2022-02-07,Male,14.0,Confirmed,Loveland
-72781,74994,2022-02-07,Male,14.0,Confirmed,Loveland
-72782,74995,2022-02-07,Unknown,16.0,Probable,Wellington
-72783,74997,2022-02-07,Unknown,19.0,Probable,Fort Collins
-72784,75001,2022-02-07,Male,19.0,Confirmed,Fort Collins
-72785,75004,2022-02-07,Female,19.0,Confirmed,Fort Collins
-72786,75005,2022-02-07,Female,19.0,Confirmed,Fort Collins
-72787,75006,2022-02-07,Female,20.0,Probable,Fort Collins
-72788,75007,2022-02-07,Female,21.0,Confirmed,Johnstown
-72789,75008,2022-02-07,Male,21.0,Confirmed,Fort Collins
-72790,75009,2022-02-07,Female,21.0,Confirmed,Fort Collins
-72791,75011,2022-02-07,Male,21.0,Confirmed,Berthoud
-72792,75013,2022-02-07,Male,21.0,Probable,Fort Collins
-72793,75014,2022-02-07,Female,22.0,Confirmed,Fort Collins
-72794,75015,2022-02-07,Female,22.0,Confirmed,Fort Collins
+72739,74951,2022-02-06,Female,60.0,Confirmed,Fort Collins
+72740,74952,2022-02-06,Female,61.0,Confirmed,Loveland
+72741,74953,2022-02-06,Female,64.0,Confirmed,Fort Collins
+72742,74954,2022-02-06,Female,65.0,Confirmed,Loveland
+72743,74955,2022-02-06,Female,67.0,Confirmed,Berthoud
+72744,74956,2022-02-06,Female,70.0,Confirmed,Berthoud
+72745,74957,2022-02-06,Female,70.0,Confirmed,Loveland
+72746,74958,2022-02-06,Male,71.0,Confirmed,Loveland
+72747,74959,2022-02-06,Male,82.0,Confirmed,Fort Collins
+72748,74960,2022-02-06,Male,91.0,Confirmed,Wellington
+72749,74961,2022-02-06,Female,93.0,Confirmed,Loveland
+72750,74962,2022-02-06,Male,95.0,Confirmed,Loveland
+72751,74963,2022-02-06,Female,96.0,Confirmed,Fort Collins
+72752,74964,2022-02-07,Male,0.0,Confirmed,Loveland
+72753,74965,2022-02-07,Female,0.0,Probable,Fort Collins
+72754,74966,2022-02-07,Male,1.0,Confirmed,Fort Collins
+72755,74967,2022-02-07,Male,1.0,Confirmed,Berthoud
+72756,74968,2022-02-07,Male,2.0,Confirmed,Loveland
+72757,74969,2022-02-07,Male,2.0,Probable,Fort Collins
+72758,74970,2022-02-07,Male,3.0,Confirmed,Wellington
+72759,74971,2022-02-07,Female,3.0,Confirmed,Berthoud
+72760,74972,2022-02-07,Female,4.0,Confirmed,Loveland
+72761,74973,2022-02-07,Female,4.0,Confirmed,Wellington
+72762,74974,2022-02-07,Male,4.0,Confirmed,Berthoud
+72763,74976,2022-02-07,Female,5.0,Probable,Fort Collins
+72764,74977,2022-02-07,Female,5.0,Confirmed,Fort Collins
+72765,74978,2022-02-07,Female,5.0,Probable,Loveland
+72766,74979,2022-02-07,Female,6.0,Confirmed,Loveland
+72767,74980,2022-02-07,Male,6.0,Confirmed,Wellington
+72768,74981,2022-02-07,Female,7.0,Probable,Fort Collins
+72769,74982,2022-02-07,Male,7.0,Confirmed,Loveland
+72770,74983,2022-02-07,Female,8.0,Confirmed,Fort Collins
+72771,74984,2022-02-07,Unknown,8.0,Probable,Fort Collins
+72772,74985,2022-02-07,Female,9.0,Confirmed,Fort Collins
+72773,74986,2022-02-07,Female,9.0,Confirmed,Fort Collins
+72774,74987,2022-02-07,Female,9.0,Probable,Fort Collins
+72775,74988,2022-02-07,Female,10.0,Confirmed,Loveland
+72776,74989,2022-02-07,Male,11.0,Probable,Fort Collins
+72777,74990,2022-02-07,Male,11.0,Confirmed,Fort Collins
+72778,74991,2022-02-07,Male,11.0,Probable,Loveland
+72779,74992,2022-02-07,Female,11.0,Probable,Fort Collins
+72780,74993,2022-02-07,Female,12.0,Confirmed,Loveland
+72781,74994,2022-02-07,Female,13.0,Confirmed,Loveland
+72782,74995,2022-02-07,Male,14.0,Confirmed,Loveland
+72783,74996,2022-02-07,Male,14.0,Confirmed,Loveland
+72784,74997,2022-02-07,Unknown,16.0,Probable,Wellington
+72785,74999,2022-02-07,Unknown,19.0,Probable,Fort Collins
+72786,75003,2022-02-07,Male,19.0,Confirmed,Fort Collins
+72787,75006,2022-02-07,Female,19.0,Confirmed,Fort Collins
+72788,75007,2022-02-07,Female,19.0,Confirmed,Fort Collins
+72789,75008,2022-02-07,Female,20.0,Probable,Fort Collins
+72790,75009,2022-02-07,Female,21.0,Confirmed,Johnstown
+72791,75010,2022-02-07,Male,21.0,Confirmed,Fort Collins
+72792,75011,2022-02-07,Female,21.0,Confirmed,Fort Collins
+72793,75013,2022-02-07,Male,21.0,Confirmed,Berthoud
+72794,75015,2022-02-07,Male,21.0,Probable,Fort Collins
 72795,75016,2022-02-07,Female,22.0,Confirmed,Fort Collins
-72796,75017,2022-02-07,Female,22.0,Probable,Fort Collins
-72797,75019,2022-02-07,Female,22.0,Confirmed,Fort Collins
-72798,75020,2022-02-07,Female,23.0,Probable,Fort Collins
-72799,75021,2022-02-07,Male,23.0,Confirmed,Fort Collins
-72800,75022,2022-02-07,Male,24.0,Confirmed,Fort Collins
-72801,75023,2022-02-07,Female,24.0,Confirmed,Loveland
-72802,75024,2022-02-07,Male,24.0,Confirmed,Wellington
-72803,75025,2022-02-07,Female,25.0,Confirmed,Loveland
-72804,75026,2022-02-07,Male,25.0,Confirmed,Loveland
-72805,75027,2022-02-07,Male,25.0,Confirmed,Loveland
-72806,75028,2022-02-07,Female,27.0,Confirmed,Johnstown
-72807,75029,2022-02-07,Female,27.0,Confirmed,Wellington
-72808,75030,2022-02-07,Female,27.0,Confirmed,Loveland
-72809,75031,2022-02-07,Female,28.0,Probable,Fort Collins
-72810,75032,2022-02-07,Female,28.0,Confirmed,Fort Collins
-72811,75033,2022-02-07,Female,28.0,Confirmed,Wellington
-72812,75034,2022-02-07,Male,28.0,Confirmed,Fort Collins
-72813,75036,2022-02-07,Female,29.0,Confirmed,Fort Collins
-72814,75038,2022-02-07,Female,30.0,Confirmed,Wellington
-72815,75039,2022-02-07,Female,30.0,Confirmed,Fort Collins
+72796,75017,2022-02-07,Female,22.0,Confirmed,Fort Collins
+72797,75018,2022-02-07,Female,22.0,Confirmed,Fort Collins
+72798,75019,2022-02-07,Female,22.0,Probable,Fort Collins
+72799,75021,2022-02-07,Female,22.0,Confirmed,Fort Collins
+72800,75022,2022-02-07,Female,23.0,Probable,Fort Collins
+72801,75023,2022-02-07,Male,23.0,Confirmed,Fort Collins
+72802,75024,2022-02-07,Male,24.0,Confirmed,Fort Collins
+72803,75025,2022-02-07,Female,24.0,Confirmed,Loveland
+72804,75026,2022-02-07,Male,24.0,Confirmed,Wellington
+72805,75027,2022-02-07,Female,25.0,Confirmed,Loveland
+72806,75028,2022-02-07,Male,25.0,Confirmed,Loveland
+72807,75029,2022-02-07,Male,25.0,Confirmed,Loveland
+72808,75030,2022-02-07,Female,27.0,Confirmed,Johnstown
+72809,75031,2022-02-07,Female,27.0,Confirmed,Wellington
+72810,75032,2022-02-07,Female,27.0,Confirmed,Loveland
+72811,75033,2022-02-07,Female,28.0,Probable,Fort Collins
+72812,75034,2022-02-07,Female,28.0,Confirmed,Fort Collins
+72813,75035,2022-02-07,Female,28.0,Confirmed,Wellington
+72814,75036,2022-02-07,Male,28.0,Confirmed,Fort Collins
+72815,75038,2022-02-07,Female,29.0,Confirmed,Fort Collins
 72816,75040,2022-02-07,Female,30.0,Confirmed,Wellington
-72817,75041,2022-02-07,Female,30.0,Confirmed,Berthoud
-72818,75042,2022-02-07,Female,30.0,Confirmed,Fort Collins
-72819,75043,2022-02-07,Male,31.0,Confirmed,Loveland
-72820,75044,2022-02-07,Male,32.0,Probable,Fort Collins
-72821,75045,2022-02-07,Male,32.0,Confirmed,Berthoud
-72822,75046,2022-02-07,Male,32.0,Confirmed,Fort Collins
-72823,75047,2022-02-07,Female,32.0,Confirmed,Berthoud
-72824,75048,2022-02-07,Female,33.0,Confirmed,Fort Collins
-72825,75049,2022-02-07,Male,34.0,Confirmed,Loveland
-72826,75050,2022-02-07,Female,34.0,Confirmed,Loveland
-72827,75051,2022-02-07,Male,34.0,Confirmed,Fort Collins
-72828,75052,2022-02-07,Male,35.0,Probable,Loveland
-72829,75053,2022-02-07,Male,35.0,Probable,Loveland
-72830,75054,2022-02-07,Female,35.0,Confirmed,Loveland
-72831,75055,2022-02-07,Female,36.0,Confirmed,Loveland
-72832,75056,2022-02-07,Female,36.0,Confirmed,Fort Collins
-72833,75057,2022-02-07,Female,36.0,Probable,Wellington
-72834,75058,2022-02-07,Female,36.0,Confirmed,Loveland
-72835,75059,2022-02-07,Female,36.0,Confirmed,Fort Collins
-72836,75060,2022-02-07,Female,36.0,Confirmed,Fort Collins
-72837,75061,2022-02-07,Female,36.0,Confirmed,Berthoud
-72838,75062,2022-02-07,Female,37.0,Confirmed,Timnath
-72839,75063,2022-02-07,Female,37.0,Confirmed,Fort Collins
-72840,75064,2022-02-07,Female,37.0,Confirmed,Loveland
-72841,75065,2022-02-07,Male,37.0,Confirmed,Berthoud
-72842,75066,2022-02-07,Male,38.0,Confirmed,Berthoud
-72843,75067,2022-02-07,Male,38.0,Confirmed,Fort Collins
-72844,75068,2022-02-07,Male,38.0,Confirmed,Fort Collins
-72845,75069,2022-02-07,Female,39.0,Probable,Berthoud
-72846,75070,2022-02-07,Male,39.0,Confirmed,Loveland
-72847,75071,2022-02-07,Female,39.0,Confirmed,Fort Collins
+72817,75041,2022-02-07,Female,30.0,Confirmed,Fort Collins
+72818,75042,2022-02-07,Female,30.0,Confirmed,Wellington
+72819,75043,2022-02-07,Female,30.0,Confirmed,Berthoud
+72820,75044,2022-02-07,Female,30.0,Confirmed,Fort Collins
+72821,75045,2022-02-07,Male,31.0,Confirmed,Loveland
+72822,75046,2022-02-07,Male,32.0,Probable,Fort Collins
+72823,75047,2022-02-07,Male,32.0,Confirmed,Berthoud
+72824,75048,2022-02-07,Male,32.0,Confirmed,Fort Collins
+72825,75049,2022-02-07,Female,32.0,Confirmed,Berthoud
+72826,75050,2022-02-07,Female,33.0,Confirmed,Fort Collins
+72827,75051,2022-02-07,Male,34.0,Confirmed,Loveland
+72828,75052,2022-02-07,Female,34.0,Confirmed,Loveland
+72829,75053,2022-02-07,Male,34.0,Confirmed,Fort Collins
+72830,75054,2022-02-07,Male,35.0,Probable,Loveland
+72831,75055,2022-02-07,Male,35.0,Probable,Loveland
+72832,75056,2022-02-07,Female,35.0,Confirmed,Loveland
+72833,75057,2022-02-07,Female,36.0,Confirmed,Loveland
+72834,75058,2022-02-07,Female,36.0,Confirmed,Fort Collins
+72835,75059,2022-02-07,Female,36.0,Probable,Wellington
+72836,75060,2022-02-07,Female,36.0,Confirmed,Loveland
+72837,75061,2022-02-07,Female,36.0,Confirmed,Fort Collins
+72838,75062,2022-02-07,Female,36.0,Confirmed,Fort Collins
+72839,75063,2022-02-07,Female,36.0,Confirmed,Berthoud
+72840,75064,2022-02-07,Female,37.0,Confirmed,Timnath
+72841,75065,2022-02-07,Female,37.0,Confirmed,Fort Collins
+72842,75066,2022-02-07,Female,37.0,Confirmed,Loveland
+72843,75067,2022-02-07,Male,37.0,Confirmed,Berthoud
+72844,75068,2022-02-07,Male,38.0,Confirmed,Berthoud
+72845,75069,2022-02-07,Male,38.0,Confirmed,Fort Collins
+72846,75070,2022-02-07,Male,38.0,Confirmed,Fort Collins
+72847,75071,2022-02-07,Female,39.0,Probable,Berthoud
 72848,75072,2022-02-07,Male,39.0,Confirmed,Loveland
-72849,75073,2022-02-07,Female,40.0,Confirmed,Fort Collins
-72850,75074,2022-02-07,Male,40.0,Confirmed,Fort Collins
-72851,75075,2022-02-07,Female,40.0,Confirmed,Loveland
-72852,75076,2022-02-07,Female,40.0,Confirmed,Fort Collins
-72853,75077,2022-02-07,Male,41.0,Confirmed,Fort Collins
-72854,75078,2022-02-07,Female,42.0,Probable,Fort Collins
-72855,75079,2022-02-07,Female,42.0,Probable,Fort Collins
-72856,75080,2022-02-07,Male,42.0,Confirmed,Berthoud
-72857,75081,2022-02-07,Female,42.0,Confirmed,Fort Collins
-72858,75082,2022-02-07,Female,42.0,Confirmed,Fort Collins
+72849,75073,2022-02-07,Female,39.0,Confirmed,Fort Collins
+72850,75074,2022-02-07,Male,39.0,Confirmed,Loveland
+72851,75075,2022-02-07,Female,40.0,Confirmed,Fort Collins
+72852,75076,2022-02-07,Male,40.0,Confirmed,Fort Collins
+72853,75077,2022-02-07,Female,40.0,Confirmed,Loveland
+72854,75078,2022-02-07,Female,40.0,Confirmed,Fort Collins
+72855,75079,2022-02-07,Male,41.0,Confirmed,Fort Collins
+72856,75080,2022-02-07,Female,42.0,Probable,Fort Collins
+72857,75081,2022-02-07,Female,42.0,Probable,Fort Collins
+72858,75082,2022-02-07,Male,42.0,Confirmed,Berthoud
 72859,75083,2022-02-07,Female,42.0,Confirmed,Fort Collins
-72860,75084,2022-02-07,Female,43.0,Probable,Wellington
-72861,75085,2022-02-07,Female,43.0,Confirmed,Fort Collins
-72862,75086,2022-02-07,Male,43.0,Confirmed,Fort Collins
-72863,75087,2022-02-07,Male,43.0,Confirmed,Fort Collins
-72864,75088,2022-02-07,Female,44.0,Confirmed,Loveland
-72865,75089,2022-02-07,Female,46.0,Confirmed,Fort Collins
-72866,75090,2022-02-07,Male,46.0,Confirmed,Fort Collins
-72867,75091,2022-02-07,Male,46.0,Confirmed,Fort Collins
-72868,75092,2022-02-07,Female,47.0,Confirmed,Fort Collins
-72869,75093,2022-02-07,Female,48.0,Confirmed,Fort Collins
-72870,75094,2022-02-07,Female,49.0,Confirmed,Loveland
-72871,75095,2022-02-07,Female,49.0,Confirmed,Loveland
-72872,75096,2022-02-07,Female,49.0,Confirmed,Fort Collins
-72873,75097,2022-02-07,Male,50.0,Confirmed,Berthoud
-72874,75098,2022-02-07,Male,50.0,Probable,Fort Collins
-72875,75099,2022-02-07,Male,50.0,Probable,Wellington
-72876,75101,2022-02-07,Female,51.0,Confirmed,Fort Collins
-72877,75102,2022-02-07,Male,51.0,Confirmed,Fort Collins
-72878,75103,2022-02-07,Unknown,52.0,Probable,Fort Collins
-72879,75104,2022-02-07,Male,53.0,Probable,Loveland
-72880,75105,2022-02-07,Male,53.0,Confirmed,Berthoud
-72881,75106,2022-02-07,Male,54.0,Probable,Loveland
-72882,75107,2022-02-07,Female,54.0,Confirmed,Loveland
-72883,75108,2022-02-07,Male,54.0,Confirmed,Fort Collins
-72884,75109,2022-02-07,Male,55.0,Probable,Fort Collins
-72885,75110,2022-02-07,Female,55.0,Probable,Fort Collins
-72886,75111,2022-02-07,Male,55.0,Confirmed,Fort Collins
-72887,75112,2022-02-07,Female,55.0,Confirmed,Bellvue
-72888,75113,2022-02-07,Female,56.0,Confirmed,Fort Collins
-72889,75114,2022-02-07,Female,58.0,Confirmed,Wellington
-72890,75115,2022-02-07,Female,62.0,Probable,Fort Collins
-72891,75116,2022-02-07,Female,62.0,Confirmed,Loveland
-72892,75117,2022-02-07,Male,63.0,Probable,Loveland
-72893,75118,2022-02-07,Male,63.0,Confirmed,Loveland
-72894,75119,2022-02-07,Female,63.0,Confirmed,Fort Collins
-72895,75120,2022-02-07,Female,66.0,Confirmed,Fort Collins
-72896,75121,2022-02-07,Male,67.0,Confirmed,Fort Collins
-72897,75122,2022-02-07,Female,67.0,Confirmed,Wellington
-72898,75123,2022-02-07,Male,69.0,Confirmed,Fort Collins
-72899,75124,2022-02-07,Female,69.0,Confirmed,Wellington
-72900,75125,2022-02-07,Female,70.0,Confirmed,Fort Collins
-72901,75126,2022-02-07,Female,74.0,Confirmed,Loveland
-72902,75127,2022-02-07,Male,77.0,Confirmed,Loveland
-72903,75128,2022-02-07,Female,79.0,Confirmed,Fort Collins
-72904,75129,2022-02-07,Male,81.0,Confirmed,Loveland
-72905,75130,2022-02-07,Female,83.0,Confirmed,Loveland
-72906,75131,2022-02-07,Male,85.0,Confirmed,Fort Collins
-72907,75132,2022-02-07,Female,86.0,Confirmed,Loveland
-72908,75133,2022-02-07,Female,88.0,Confirmed,Fort Collins
-72909,75134,2022-02-07,Female,90.0,Confirmed,Fort Collins
-72910,75135,2022-02-08,Male,0.0,Confirmed,Fort Collins
-72911,75136,2022-02-08,Female,0.0,Confirmed,Loveland
-72912,75137,2022-02-08,Female,0.0,Probable,Loveland
-72913,75138,2022-02-08,Female,1.0,Confirmed,Berthoud
-72914,75139,2022-02-08,Male,3.0,Probable,Loveland
-72915,75140,2022-02-08,Male,3.0,Confirmed,Fort Collins
-72916,75141,2022-02-08,Male,4.0,Confirmed,Berthoud
-72917,75142,2022-02-08,Female,4.0,Probable,Fort Collins
-72918,75143,2022-02-08,Female,4.0,Confirmed,Fort Collins
-72919,75144,2022-02-08,Female,4.0,Probable,Fort Collins
-72920,75145,2022-02-08,Male,5.0,Confirmed,Fort Collins
-72921,75146,2022-02-08,Female,5.0,Probable,Estes Park
-72922,75147,2022-02-08,Male,5.0,Confirmed,Johnstown
-72923,75148,2022-02-08,Female,5.0,Confirmed,Loveland
-72924,75149,2022-02-08,Male,6.0,Confirmed,Berthoud
-72925,75150,2022-02-08,Female,6.0,Confirmed,Fort Collins
-72926,75151,2022-02-08,Female,8.0,Probable,Loveland
-72927,75152,2022-02-08,Male,8.0,Probable,Fort Collins
-72928,75153,2022-02-08,Male,8.0,Probable,Estes Park
-72929,75154,2022-02-08,Male,9.0,Probable,Fort Collins
-72930,75155,2022-02-08,Female,10.0,Confirmed,Windsor
-72931,75156,2022-02-08,Female,10.0,Confirmed,Fort Collins
-72932,75157,2022-02-08,Unknown,11.0,Probable,Fort Collins
-72933,75158,2022-02-08,Female,11.0,Probable,Fort Collins
-72934,75159,2022-02-08,Male,11.0,Confirmed,Fort Collins
-72935,75160,2022-02-08,Male,12.0,Confirmed,Loveland
-72936,75161,2022-02-08,Female,12.0,Confirmed,Fort Collins
-72937,75162,2022-02-08,Female,12.0,Probable,Fort Collins
-72938,75163,2022-02-08,Female,12.0,Confirmed,Loveland
-72939,75164,2022-02-08,Male,12.0,Confirmed,Fort Collins
-72940,75165,2022-02-08,Male,12.0,Confirmed,Berthoud
-72941,75166,2022-02-08,Female,13.0,Probable,Loveland
-72942,75167,2022-02-08,Male,13.0,Confirmed,Fort Collins
-72943,75168,2022-02-08,Female,13.0,Probable,Fort Collins
-72944,75169,2022-02-08,Unknown,13.0,Probable,Loveland
-72945,75170,2022-02-08,Male,13.0,Confirmed,Loveland
-72946,75171,2022-02-08,Female,15.0,Confirmed,Bellvue
-72947,75172,2022-02-08,Female,15.0,Confirmed,Loveland
-72948,75173,2022-02-08,Male,15.0,Confirmed,Loveland
-72949,75174,2022-02-08,Female,16.0,Confirmed,Fort Collins
-72950,75175,2022-02-08,Female,17.0,Confirmed,Fort Collins
-72951,75176,2022-02-08,Male,17.0,Confirmed,Loveland
-72952,75177,2022-02-08,Female,18.0,Confirmed,Fort Collins
-72953,75179,2022-02-08,Male,18.0,Confirmed,Fort Collins
-72954,75180,2022-02-08,Female,18.0,Confirmed,Berthoud
-72955,75181,2022-02-08,Male,19.0,Probable,Wellington
-72956,75186,2022-02-08,Male,19.0,Confirmed,Loveland
-72957,75187,2022-02-08,Female,19.0,Probable,Fort Collins
-72958,75188,2022-02-08,Male,19.0,Confirmed,Loveland
-72959,75189,2022-02-08,Female,19.0,Confirmed,Fort Collins
-72960,75190,2022-02-08,Male,20.0,Confirmed,Fort Collins
-72961,75191,2022-02-08,Female,20.0,Confirmed,Loveland
-72962,75192,2022-02-08,Male,20.0,Probable,Fort Collins
-72963,75193,2022-02-08,Female,20.0,Probable,Fort Collins
-72964,75195,2022-02-08,Female,20.0,Probable,Fort Collins
-72965,75196,2022-02-08,Female,20.0,Probable,Fort Collins
-72966,75197,2022-02-08,Male,20.0,Confirmed,Loveland
-72967,75198,2022-02-08,Female,20.0,Confirmed,Fort Collins
-72968,75199,2022-02-08,Female,20.0,Confirmed,Fort Collins
-72969,75200,2022-02-08,Male,21.0,Probable,Fort Collins
-72970,75201,2022-02-08,Male,21.0,Confirmed,Fort Collins
-72971,75202,2022-02-08,Female,21.0,Probable,Fort Collins
-72972,75203,2022-02-08,Female,21.0,Probable,Fort Collins
-72973,75204,2022-02-08,Female,21.0,Confirmed,Fort Collins
-72974,75205,2022-02-08,Male,21.0,Confirmed,Loveland
-72975,75206,2022-02-08,Female,21.0,Confirmed,Fort Collins
-72976,75207,2022-02-08,Female,22.0,Confirmed,Fort Collins
-72977,75208,2022-02-08,Male,22.0,Confirmed,Fort Collins
-72978,75209,2022-02-08,Male,22.0,Confirmed,Fort Collins
-72979,75210,2022-02-08,Female,22.0,Confirmed,Estes Park
-72980,75211,2022-02-08,Male,22.0,Probable,Fort Collins
+72860,75084,2022-02-07,Female,42.0,Confirmed,Fort Collins
+72861,75085,2022-02-07,Female,42.0,Confirmed,Fort Collins
+72862,75086,2022-02-07,Female,43.0,Probable,Wellington
+72863,75087,2022-02-07,Female,43.0,Confirmed,Fort Collins
+72864,75088,2022-02-07,Male,43.0,Confirmed,Fort Collins
+72865,75089,2022-02-07,Male,43.0,Confirmed,Fort Collins
+72866,75090,2022-02-07,Female,44.0,Confirmed,Loveland
+72867,75091,2022-02-07,Female,46.0,Confirmed,Fort Collins
+72868,75092,2022-02-07,Male,46.0,Confirmed,Fort Collins
+72869,75093,2022-02-07,Male,46.0,Confirmed,Fort Collins
+72870,75094,2022-02-07,Female,47.0,Confirmed,Fort Collins
+72871,75095,2022-02-07,Female,48.0,Confirmed,Fort Collins
+72872,75096,2022-02-07,Female,49.0,Confirmed,Loveland
+72873,75097,2022-02-07,Female,49.0,Confirmed,Loveland
+72874,75098,2022-02-07,Female,49.0,Confirmed,Fort Collins
+72875,75099,2022-02-07,Male,50.0,Confirmed,Berthoud
+72876,75100,2022-02-07,Male,50.0,Probable,Fort Collins
+72877,75101,2022-02-07,Male,50.0,Probable,Wellington
+72878,75103,2022-02-07,Female,51.0,Confirmed,Fort Collins
+72879,75104,2022-02-07,Male,51.0,Confirmed,Fort Collins
+72880,75105,2022-02-07,Unknown,52.0,Probable,Fort Collins
+72881,75106,2022-02-07,Male,53.0,Probable,Loveland
+72882,75107,2022-02-07,Male,53.0,Confirmed,Berthoud
+72883,75108,2022-02-07,Male,54.0,Probable,Loveland
+72884,75109,2022-02-07,Female,54.0,Confirmed,Loveland
+72885,75110,2022-02-07,Male,54.0,Confirmed,Fort Collins
+72886,75111,2022-02-07,Male,55.0,Probable,Fort Collins
+72887,75112,2022-02-07,Female,55.0,Probable,Fort Collins
+72888,75113,2022-02-07,Male,55.0,Confirmed,Fort Collins
+72889,75114,2022-02-07,Female,55.0,Confirmed,Bellvue
+72890,75115,2022-02-07,Female,56.0,Confirmed,Fort Collins
+72891,75116,2022-02-07,Female,58.0,Confirmed,Wellington
+72892,75117,2022-02-07,Female,62.0,Probable,Fort Collins
+72893,75118,2022-02-07,Female,62.0,Confirmed,Loveland
+72894,75119,2022-02-07,Male,63.0,Probable,Loveland
+72895,75120,2022-02-07,Male,63.0,Confirmed,Loveland
+72896,75121,2022-02-07,Female,63.0,Confirmed,Fort Collins
+72897,75122,2022-02-07,Female,66.0,Confirmed,Fort Collins
+72898,75123,2022-02-07,Male,67.0,Confirmed,Fort Collins
+72899,75124,2022-02-07,Female,67.0,Confirmed,Wellington
+72900,75125,2022-02-07,Male,69.0,Confirmed,Fort Collins
+72901,75126,2022-02-07,Female,69.0,Confirmed,Wellington
+72902,75127,2022-02-07,Female,70.0,Confirmed,Fort Collins
+72903,75128,2022-02-07,Female,74.0,Confirmed,Loveland
+72904,75129,2022-02-07,Male,77.0,Confirmed,Loveland
+72905,75130,2022-02-07,Female,79.0,Confirmed,Fort Collins
+72906,75131,2022-02-07,Male,81.0,Confirmed,Loveland
+72907,75132,2022-02-07,Female,83.0,Confirmed,Loveland
+72908,75133,2022-02-07,Male,85.0,Confirmed,Fort Collins
+72909,75134,2022-02-07,Female,86.0,Confirmed,Loveland
+72910,75135,2022-02-07,Female,88.0,Confirmed,Fort Collins
+72911,75136,2022-02-07,Female,90.0,Confirmed,Fort Collins
+72912,75137,2022-02-08,Male,0.0,Confirmed,Fort Collins
+72913,75138,2022-02-08,Female,0.0,Confirmed,Loveland
+72914,75139,2022-02-08,Female,0.0,Probable,Loveland
+72915,75140,2022-02-08,Female,1.0,Confirmed,Berthoud
+72916,75141,2022-02-08,Male,3.0,Probable,Loveland
+72917,75142,2022-02-08,Male,3.0,Confirmed,Fort Collins
+72918,75143,2022-02-08,Female,4.0,Probable,Fort Collins
+72919,75144,2022-02-08,Female,4.0,Confirmed,Fort Collins
+72920,75145,2022-02-08,Female,4.0,Probable,Fort Collins
+72921,75146,2022-02-08,Male,5.0,Confirmed,Fort Collins
+72922,75147,2022-02-08,Female,5.0,Probable,Estes Park
+72923,75148,2022-02-08,Male,5.0,Confirmed,Johnstown
+72924,75149,2022-02-08,Female,5.0,Confirmed,Loveland
+72925,75150,2022-02-08,Male,6.0,Confirmed,Berthoud
+72926,75151,2022-02-08,Female,6.0,Confirmed,Fort Collins
+72927,75152,2022-02-08,Female,8.0,Probable,Loveland
+72928,75153,2022-02-08,Male,8.0,Probable,Fort Collins
+72929,75154,2022-02-08,Male,8.0,Probable,Estes Park
+72930,75155,2022-02-08,Male,9.0,Probable,Fort Collins
+72931,75156,2022-02-08,Female,10.0,Confirmed,Windsor
+72932,75157,2022-02-08,Female,10.0,Confirmed,Fort Collins
+72933,75158,2022-02-08,Unknown,11.0,Probable,Fort Collins
+72934,75159,2022-02-08,Female,11.0,Probable,Fort Collins
+72935,75160,2022-02-08,Male,11.0,Confirmed,Fort Collins
+72936,75161,2022-02-08,Male,12.0,Confirmed,Loveland
+72937,75162,2022-02-08,Female,12.0,Confirmed,Fort Collins
+72938,75163,2022-02-08,Female,12.0,Probable,Fort Collins
+72939,75164,2022-02-08,Female,12.0,Confirmed,Loveland
+72940,75165,2022-02-08,Male,12.0,Confirmed,Fort Collins
+72941,75166,2022-02-08,Male,12.0,Confirmed,Berthoud
+72942,75167,2022-02-08,Male,12.0,Confirmed,Loveland
+72943,75168,2022-02-08,Female,13.0,Probable,Loveland
+72944,75169,2022-02-08,Male,13.0,Confirmed,Fort Collins
+72945,75170,2022-02-08,Female,13.0,Probable,Fort Collins
+72946,75171,2022-02-08,Unknown,13.0,Probable,Loveland
+72947,75172,2022-02-08,Male,13.0,Confirmed,Loveland
+72948,75173,2022-02-08,Female,15.0,Confirmed,Bellvue
+72949,75174,2022-02-08,Female,15.0,Confirmed,Loveland
+72950,75175,2022-02-08,Male,15.0,Confirmed,Loveland
+72951,75176,2022-02-08,Male,15.0,Confirmed,Loveland
+72952,75177,2022-02-08,Female,16.0,Confirmed,Fort Collins
+72953,75178,2022-02-08,Female,16.0,Confirmed,Loveland
+72954,75179,2022-02-08,Female,17.0,Confirmed,Fort Collins
+72955,75180,2022-02-08,Male,17.0,Confirmed,Loveland
+72956,75181,2022-02-08,Female,18.0,Confirmed,Fort Collins
+72957,75183,2022-02-08,Male,18.0,Confirmed,Fort Collins
+72958,75184,2022-02-08,Female,18.0,Confirmed,Berthoud
+72959,75185,2022-02-08,Male,19.0,Probable,Wellington
+72960,75190,2022-02-08,Male,19.0,Confirmed,Loveland
+72961,75191,2022-02-08,Female,19.0,Probable,Fort Collins
+72962,75192,2022-02-08,Male,19.0,Confirmed,Loveland
+72963,75193,2022-02-08,Female,19.0,Confirmed,Fort Collins
+72964,75194,2022-02-08,Male,20.0,Confirmed,Fort Collins
+72965,75195,2022-02-08,Female,20.0,Confirmed,Loveland
+72966,75196,2022-02-08,Male,20.0,Probable,Fort Collins
+72967,75197,2022-02-08,Female,20.0,Probable,Fort Collins
+72968,75199,2022-02-08,Female,20.0,Probable,Fort Collins
+72969,75200,2022-02-08,Female,20.0,Probable,Fort Collins
+72970,75201,2022-02-08,Male,20.0,Confirmed,Loveland
+72971,75202,2022-02-08,Female,20.0,Confirmed,Fort Collins
+72972,75203,2022-02-08,Female,20.0,Confirmed,Fort Collins
+72973,75204,2022-02-08,Male,21.0,Probable,Fort Collins
+72974,75205,2022-02-08,Male,21.0,Confirmed,Fort Collins
+72975,75206,2022-02-08,Female,21.0,Probable,Fort Collins
+72976,75207,2022-02-08,Female,21.0,Probable,Fort Collins
+72977,75208,2022-02-08,Female,21.0,Confirmed,Fort Collins
+72978,75209,2022-02-08,Male,21.0,Confirmed,Loveland
+72979,75210,2022-02-08,Female,21.0,Confirmed,Fort Collins
+72980,75211,2022-02-08,Female,22.0,Confirmed,Fort Collins
 72981,75212,2022-02-08,Male,22.0,Confirmed,Fort Collins
-72982,75213,2022-02-08,Female,22.0,Confirmed,Fort Collins
-72983,75214,2022-02-08,Male,22.0,Confirmed,Fort Collins
-72984,75215,2022-02-08,Male,23.0,Confirmed,Fort Collins
-72985,75216,2022-02-08,Female,23.0,Confirmed,Fort Collins
-72986,75218,2022-02-08,Male,24.0,Probable,Fort Collins
-72987,75219,2022-02-08,Male,24.0,Confirmed,Fort Collins
-72988,75220,2022-02-08,Female,25.0,Probable,Fort Collins
-72989,75221,2022-02-08,Female,25.0,Confirmed,Fort Collins
-72990,75222,2022-02-08,Male,26.0,Confirmed,Loveland
-72991,75223,2022-02-08,Female,26.0,Confirmed,Fort Collins
-72992,75224,2022-02-08,Female,26.0,Confirmed,Fort Collins
-72993,75225,2022-02-08,Female,26.0,Confirmed,Fort Collins
-72994,75226,2022-02-08,Male,27.0,Confirmed,Fort Collins
-72995,75227,2022-02-08,Female,28.0,Confirmed,Loveland
-72996,75228,2022-02-08,Male,28.0,Confirmed,Fort Collins
-72997,75229,2022-02-08,Female,28.0,Confirmed,Fort Collins
-72998,75230,2022-02-08,Female,28.0,Probable,Fort Collins
-72999,75231,2022-02-08,Female,28.0,Confirmed,Fort Collins
-73000,75232,2022-02-08,Female,28.0,Confirmed,Fort Collins
-73001,75233,2022-02-08,Female,28.0,Confirmed,Wellington
-73002,75234,2022-02-08,Male,28.0,Confirmed,Loveland
+72982,75213,2022-02-08,Male,22.0,Confirmed,Fort Collins
+72983,75214,2022-02-08,Female,22.0,Confirmed,Estes Park
+72984,75215,2022-02-08,Male,22.0,Probable,Fort Collins
+72985,75216,2022-02-08,Male,22.0,Confirmed,Fort Collins
+72986,75217,2022-02-08,Female,22.0,Confirmed,Fort Collins
+72987,75218,2022-02-08,Male,22.0,Confirmed,Fort Collins
+72988,75219,2022-02-08,Male,23.0,Confirmed,Fort Collins
+72989,75220,2022-02-08,Female,23.0,Confirmed,Fort Collins
+72990,75222,2022-02-08,Male,24.0,Probable,Fort Collins
+72991,75223,2022-02-08,Male,24.0,Confirmed,Fort Collins
+72992,75224,2022-02-08,Female,25.0,Probable,Fort Collins
+72993,75225,2022-02-08,Female,25.0,Confirmed,Fort Collins
+72994,75226,2022-02-08,Male,26.0,Confirmed,Loveland
+72995,75227,2022-02-08,Female,26.0,Confirmed,Fort Collins
+72996,75228,2022-02-08,Female,26.0,Confirmed,Fort Collins
+72997,75229,2022-02-08,Female,26.0,Confirmed,Fort Collins
+72998,75230,2022-02-08,Male,27.0,Confirmed,Fort Collins
+72999,75231,2022-02-08,Female,28.0,Confirmed,Loveland
+73000,75232,2022-02-08,Male,28.0,Confirmed,Fort Collins
+73001,75233,2022-02-08,Female,28.0,Confirmed,Fort Collins
+73002,75234,2022-02-08,Female,28.0,Probable,Fort Collins
 73003,75235,2022-02-08,Female,28.0,Confirmed,Fort Collins
-73004,75236,2022-02-08,Female,29.0,Probable,Fort Collins
-73005,75237,2022-02-08,Female,29.0,Confirmed,Loveland
-73006,75238,2022-02-08,Female,29.0,Confirmed,Estes Park
-73007,75239,2022-02-08,Female,29.0,Confirmed,Timnath
-73008,75240,2022-02-08,Male,29.0,Confirmed,Fort Collins
-73009,75241,2022-02-08,Male,29.0,Confirmed,Loveland
-73010,75242,2022-02-08,Male,30.0,Confirmed,Loveland
-73011,75243,2022-02-08,Female,30.0,Confirmed,Fort Collins
-73012,75244,2022-02-08,Male,30.0,Confirmed,Wellington
-73013,75245,2022-02-08,Male,30.0,Confirmed,Fort Collins
-73014,75246,2022-02-08,Female,31.0,Probable,Loveland
-73015,75247,2022-02-08,Female,31.0,Confirmed,Fort Collins
-73016,75248,2022-02-08,Male,31.0,Confirmed,Fort Collins
-73017,75249,2022-02-08,Female,31.0,Confirmed,Loveland
-73018,75250,2022-02-08,Male,32.0,Confirmed,Fort Collins
-73019,75251,2022-02-08,Female,32.0,Confirmed,Bellvue
-73020,75252,2022-02-08,Male,32.0,Confirmed,Fort Collins
-73021,75253,2022-02-08,Female,32.0,Confirmed,Fort Collins
+73004,75236,2022-02-08,Female,28.0,Confirmed,Fort Collins
+73005,75237,2022-02-08,Female,28.0,Confirmed,Wellington
+73006,75238,2022-02-08,Male,28.0,Confirmed,Loveland
+73007,75239,2022-02-08,Female,28.0,Confirmed,Fort Collins
+73008,75240,2022-02-08,Female,29.0,Probable,Fort Collins
+73009,75241,2022-02-08,Female,29.0,Confirmed,Loveland
+73010,75242,2022-02-08,Female,29.0,Confirmed,Estes Park
+73011,75243,2022-02-08,Female,29.0,Confirmed,Timnath
+73012,75244,2022-02-08,Male,29.0,Confirmed,Fort Collins
+73013,75245,2022-02-08,Male,29.0,Confirmed,Loveland
+73014,75246,2022-02-08,Male,30.0,Confirmed,Loveland
+73015,75247,2022-02-08,Female,30.0,Confirmed,Fort Collins
+73016,75248,2022-02-08,Male,30.0,Confirmed,Wellington
+73017,75249,2022-02-08,Male,30.0,Confirmed,Fort Collins
+73018,75250,2022-02-08,Female,31.0,Probable,Loveland
+73019,75251,2022-02-08,Female,31.0,Confirmed,Fort Collins
+73020,75252,2022-02-08,Male,31.0,Confirmed,Fort Collins
+73021,75253,2022-02-08,Female,31.0,Confirmed,Loveland
 73022,75254,2022-02-08,Male,32.0,Confirmed,Fort Collins
-73023,75255,2022-02-08,Female,32.0,Probable,Fort Collins
-73024,75256,2022-02-08,Male,33.0,Confirmed,Loveland
-73025,75257,2022-02-08,Male,33.0,Confirmed,Fort Collins
-73026,75258,2022-02-08,Female,33.0,Confirmed,Loveland
-73027,75259,2022-02-08,Female,33.0,Confirmed,Johnstown
-73028,75260,2022-02-08,Female,33.0,Confirmed,Fort Collins
-73029,75261,2022-02-08,Female,34.0,Confirmed,Loveland
-73030,75262,2022-02-08,Female,34.0,Confirmed,Loveland
-73031,75263,2022-02-08,Male,34.0,Confirmed,Fort Collins
-73032,75264,2022-02-08,Female,34.0,Confirmed,Fort Collins
-73033,75265,2022-02-08,Female,35.0,Confirmed,Johnstown
-73034,75266,2022-02-08,Male,35.0,Confirmed,Loveland
-73035,75267,2022-02-08,Female,36.0,Probable,Timnath
-73036,75268,2022-02-08,Male,36.0,Confirmed,Fort Collins
-73037,75269,2022-02-08,Male,36.0,Confirmed,Fort Collins
-73038,75270,2022-02-08,Male,36.0,Confirmed,Loveland
-73039,75271,2022-02-08,Male,37.0,Probable,Fort Collins
-73040,75274,2022-02-08,Male,37.0,Confirmed,Wellington
-73041,75275,2022-02-08,Male,37.0,Confirmed,Fort Collins
-73042,75276,2022-02-08,Female,37.0,Confirmed,Fort Collins
-73043,75277,2022-02-08,Male,37.0,Probable,Fort Collins
-73044,75278,2022-02-08,Female,38.0,Confirmed,Fort Collins
-73045,75279,2022-02-08,Female,38.0,Confirmed,Fort Collins
-73046,75280,2022-02-08,Male,38.0,Confirmed,Fort Collins
-73047,75281,2022-02-08,Female,38.0,Confirmed,Loveland
-73048,75282,2022-02-08,Female,39.0,Confirmed,Fort Collins
-73049,75283,2022-02-08,Female,39.0,Probable,Fort Collins
-73050,75284,2022-02-08,Female,39.0,Confirmed,Fort Collins
-73051,75285,2022-02-08,Female,39.0,Confirmed,Timnath
-73052,75286,2022-02-08,Male,40.0,Probable,Loveland
-73053,75287,2022-02-08,Female,40.0,Confirmed,Wellington
-73054,75288,2022-02-08,Male,40.0,Confirmed,Fort Collins
-73055,75289,2022-02-08,Female,40.0,Confirmed,Fort Collins
-73056,75290,2022-02-08,Female,40.0,Confirmed,Fort Collins
-73057,75291,2022-02-08,Female,40.0,Confirmed,Fort Collins
+73023,75255,2022-02-08,Female,32.0,Confirmed,Bellvue
+73024,75256,2022-02-08,Male,32.0,Confirmed,Fort Collins
+73025,75257,2022-02-08,Female,32.0,Confirmed,Fort Collins
+73026,75258,2022-02-08,Male,32.0,Confirmed,Fort Collins
+73027,75259,2022-02-08,Female,32.0,Probable,Fort Collins
+73028,75260,2022-02-08,Male,33.0,Confirmed,Loveland
+73029,75261,2022-02-08,Male,33.0,Confirmed,Fort Collins
+73030,75262,2022-02-08,Female,33.0,Confirmed,Loveland
+73031,75263,2022-02-08,Female,33.0,Confirmed,Johnstown
+73032,75264,2022-02-08,Female,33.0,Confirmed,Fort Collins
+73033,75265,2022-02-08,Female,34.0,Confirmed,Loveland
+73034,75266,2022-02-08,Female,34.0,Confirmed,Loveland
+73035,75267,2022-02-08,Male,34.0,Confirmed,Fort Collins
+73036,75268,2022-02-08,Female,34.0,Confirmed,Fort Collins
+73037,75269,2022-02-08,Female,35.0,Confirmed,Johnstown
+73038,75270,2022-02-08,Male,35.0,Confirmed,Loveland
+73039,75271,2022-02-08,Female,36.0,Probable,Timnath
+73040,75272,2022-02-08,Male,36.0,Confirmed,Fort Collins
+73041,75273,2022-02-08,Male,36.0,Confirmed,Fort Collins
+73042,75274,2022-02-08,Male,36.0,Confirmed,Loveland
+73043,75275,2022-02-08,Male,37.0,Probable,Fort Collins
+73044,75278,2022-02-08,Male,37.0,Confirmed,Wellington
+73045,75279,2022-02-08,Male,37.0,Confirmed,Fort Collins
+73046,75280,2022-02-08,Female,37.0,Confirmed,Fort Collins
+73047,75281,2022-02-08,Male,37.0,Probable,Fort Collins
+73048,75282,2022-02-08,Female,38.0,Confirmed,Fort Collins
+73049,75283,2022-02-08,Female,38.0,Confirmed,Fort Collins
+73050,75284,2022-02-08,Male,38.0,Confirmed,Fort Collins
+73051,75285,2022-02-08,Female,38.0,Confirmed,Loveland
+73052,75286,2022-02-08,Female,39.0,Confirmed,Fort Collins
+73053,75287,2022-02-08,Female,39.0,Probable,Fort Collins
+73054,75288,2022-02-08,Female,39.0,Confirmed,Fort Collins
+73055,75289,2022-02-08,Female,39.0,Confirmed,Timnath
+73056,75290,2022-02-08,Male,40.0,Probable,Loveland
+73057,75291,2022-02-08,Female,40.0,Confirmed,Wellington
 73058,75292,2022-02-08,Male,40.0,Confirmed,Fort Collins
-73059,75293,2022-02-08,Female,40.0,Confirmed,Wellington
-73060,75294,2022-02-08,Female,41.0,Confirmed,Fort Collins
-73061,75295,2022-02-08,Female,41.0,Confirmed,Loveland
-73062,75296,2022-02-08,Male,41.0,Confirmed,Loveland
-73063,75297,2022-02-08,Female,42.0,Probable,Fort Collins
-73064,75298,2022-02-08,Female,42.0,Confirmed,Berthoud
-73065,75299,2022-02-08,Male,42.0,Confirmed,Fort Collins
-73066,75300,2022-02-08,Male,42.0,Confirmed,Fort Collins
-73067,75301,2022-02-08,Female,42.0,Confirmed,Fort Collins
-73068,75302,2022-02-08,Male,43.0,Probable,Loveland
-73069,75303,2022-02-08,Female,43.0,Probable,Fort Collins
-73070,75304,2022-02-08,Female,43.0,Probable,Fort Collins
-73071,75305,2022-02-08,Female,43.0,Confirmed,Fort Collins
-73072,75306,2022-02-08,Female,43.0,Confirmed,Estes Park
-73073,75307,2022-02-08,Female,44.0,Confirmed,Fort Collins
-73074,75308,2022-02-08,Female,44.0,Probable,Fort Collins
-73075,75309,2022-02-08,Male,45.0,Confirmed,Bellvue
-73076,75310,2022-02-08,Female,45.0,Probable,Fort Collins
-73077,75311,2022-02-08,Male,46.0,Confirmed,Timnath
-73078,75312,2022-02-08,Male,46.0,Confirmed,Berthoud
-73079,75313,2022-02-08,Male,47.0,Confirmed,Fort Collins
-73080,75314,2022-02-08,Male,48.0,Confirmed,Loveland
-73081,75315,2022-02-08,Male,48.0,Probable,Loveland
-73082,75316,2022-02-08,Male,48.0,Confirmed,Fort Collins
-73083,75317,2022-02-08,Male,50.0,Probable,Bellvue
-73084,75318,2022-02-08,Male,50.0,Confirmed,Loveland
-73085,75319,2022-02-08,Female,50.0,Confirmed,Fort Collins
-73086,75320,2022-02-08,Male,51.0,Probable,Fort Collins
-73087,75321,2022-02-08,Female,52.0,Probable,Loveland
-73088,75322,2022-02-08,Male,52.0,Confirmed,Fort Collins
-73089,75323,2022-02-08,Female,52.0,Confirmed,Loveland
-73090,75324,2022-02-08,Male,53.0,Confirmed,Loveland
-73091,75325,2022-02-08,Female,53.0,Probable,Bellvue
-73092,75326,2022-02-08,Male,53.0,Confirmed,Loveland
-73093,75327,2022-02-08,Male,53.0,Confirmed,Fort Collins
-73094,75328,2022-02-08,Male,54.0,Confirmed,Fort Collins
-73095,75329,2022-02-08,Male,55.0,Probable,Fort Collins
-73096,75330,2022-02-08,Male,56.0,Confirmed,Fort Collins
-73097,75331,2022-02-08,Female,56.0,Confirmed,Loveland
-73098,75332,2022-02-08,Male,56.0,Confirmed,Berthoud
-73099,75333,2022-02-08,Male,57.0,Probable,Fort Collins
-73100,75334,2022-02-08,Male,57.0,Confirmed,Fort Collins
-73101,75335,2022-02-08,Male,58.0,Confirmed,Fort Collins
-73102,75336,2022-02-08,Female,59.0,Confirmed,Fort Collins
-73103,75337,2022-02-08,Male,59.0,Confirmed,Fort Collins
-73104,75338,2022-02-08,Male,60.0,Confirmed,Timnath
-73105,75339,2022-02-08,Male,61.0,Confirmed,Loveland
-73106,75340,2022-02-08,Female,61.0,Confirmed,Loveland
-73107,75341,2022-02-08,Female,61.0,Confirmed,Fort Collins
-73108,75342,2022-02-08,Male,61.0,Probable,Loveland
-73109,75343,2022-02-08,Female,62.0,Confirmed,Fort Collins
-73110,75344,2022-02-08,Male,62.0,Confirmed,Fort Collins
-73111,75345,2022-02-08,Female,62.0,Confirmed,Fort Collins
-73112,75346,2022-02-08,Female,63.0,Confirmed,Wellington
-73113,75347,2022-02-08,Female,63.0,Confirmed,Fort Collins
-73114,75348,2022-02-08,Female,64.0,Probable,Fort Collins
-73115,75349,2022-02-08,Male,65.0,Confirmed,Fort Collins
-73116,75350,2022-02-08,Male,66.0,Confirmed,Loveland
-73117,75351,2022-02-08,Male,66.0,Confirmed,Fort Collins
-73118,75352,2022-02-08,Male,66.0,Probable,Fort Collins
-73119,75353,2022-02-08,Male,66.0,Probable,Fort Collins
-73120,75354,2022-02-08,Male,66.0,Confirmed,Fort Collins
-73121,75355,2022-02-08,Male,67.0,Confirmed,Fort Collins
-73122,75356,2022-02-08,Female,67.0,Confirmed,Loveland
-73123,75357,2022-02-08,Female,67.0,Confirmed,Fort Collins
-73124,75358,2022-02-08,Female,68.0,Confirmed,Loveland
-73125,75359,2022-02-08,Female,68.0,Confirmed,Fort Collins
-73126,75360,2022-02-08,Female,70.0,Confirmed,Loveland
-73127,75361,2022-02-08,Female,71.0,Confirmed,Loveland
-73128,75362,2022-02-08,Female,73.0,Confirmed,Loveland
-73129,75363,2022-02-08,Female,73.0,Confirmed,Berthoud
-73130,75364,2022-02-08,Female,76.0,Confirmed,Fort Collins
-73131,75365,2022-02-08,Female,77.0,Confirmed,Loveland
-73132,75366,2022-02-08,Male,77.0,Confirmed,Loveland
-73133,75367,2022-02-08,Female,77.0,Confirmed,Fort Collins
-73134,75368,2022-02-08,Female,82.0,Probable,Wellington
-73135,75369,2022-02-08,Female,83.0,Confirmed,Berthoud
-73136,75370,2022-02-08,Female,84.0,Confirmed,Fort Collins
-73137,75371,2022-02-08,Male,91.0,Confirmed,Loveland
-73138,75372,2022-02-08,Female,92.0,Confirmed,Loveland
-73139,75373,2022-02-08,Male,92.0,Confirmed,Windsor
-73140,75374,2022-02-09,Male,0.0,Confirmed,Loveland
-73141,75375,2022-02-09,Female,0.0,Probable,Wellington
-73142,75376,2022-02-09,Male,0.0,Confirmed,Fort Collins
-73143,75377,2022-02-09,Female,1.0,Confirmed,Fort Collins
-73144,75378,2022-02-09,Female,1.0,Probable,Fort Collins
-73145,75379,2022-02-09,Male,1.0,Confirmed,Fort Collins
-73146,75380,2022-02-09,Female,3.0,Probable,Fort Collins
-73147,75381,2022-02-09,Male,3.0,Probable,Fort Collins
-73148,75382,2022-02-09,Female,4.0,Confirmed,Loveland
-73149,75383,2022-02-09,Male,4.0,Confirmed,Fort Collins
-73150,75384,2022-02-09,Male,5.0,Probable,Fort Collins
-73151,75385,2022-02-09,Male,5.0,Probable,Berthoud
-73152,75386,2022-02-09,Male,5.0,Probable,Timnath
-73153,75387,2022-02-09,Female,6.0,Probable,Fort Collins
-73154,75388,2022-02-09,Male,6.0,Probable,Fort Collins
-73155,75389,2022-02-09,Female,7.0,Probable,Fort Collins
-73156,75390,2022-02-09,Female,7.0,Probable,Fort Collins
-73157,75391,2022-02-09,Female,8.0,Confirmed,Fort Collins
-73158,75392,2022-02-09,Male,8.0,Probable,Loveland
-73159,75393,2022-02-09,Male,9.0,Probable,Fort Collins
-73160,75394,2022-02-09,Male,9.0,Probable,Loveland
-73161,75395,2022-02-09,Male,9.0,Confirmed,Fort Collins
-73162,75396,2022-02-09,Male,9.0,Probable,Fort Collins
-73163,75397,2022-02-09,Female,9.0,Confirmed,Loveland
-73164,75398,2022-02-09,Male,11.0,Probable,Loveland
-73165,75399,2022-02-09,Female,11.0,Confirmed,Fort Collins
-73166,75400,2022-02-09,Female,12.0,Probable,Fort Collins
-73167,75401,2022-02-09,Male,12.0,Confirmed,Berthoud
-73168,75402,2022-02-09,Female,13.0,Confirmed,Berthoud
-73169,75403,2022-02-09,Female,13.0,Confirmed,Loveland
-73170,75404,2022-02-09,Male,13.0,Confirmed,Loveland
-73171,75405,2022-02-09,Male,13.0,Confirmed,Fort Collins
-73172,75406,2022-02-09,Female,14.0,Confirmed,Loveland
-73173,75407,2022-02-09,Male,15.0,Probable,Fort Collins
-73174,75408,2022-02-09,Male,16.0,Confirmed,Fort Collins
-73175,75409,2022-02-09,Male,16.0,Confirmed,Fort Collins
-73176,75410,2022-02-09,Female,18.0,Probable,Fort Collins
-73177,75412,2022-02-09,Male,18.0,Confirmed,Fort Collins
-73178,75413,2022-02-09,Male,18.0,Confirmed,Loveland
-73179,75417,2022-02-09,Female,19.0,Probable,Fort Collins
-73180,75418,2022-02-09,Female,19.0,Confirmed,Fort Collins
-73181,75420,2022-02-09,Female,20.0,Confirmed,Fort Collins
-73182,75421,2022-02-09,Female,20.0,Probable,Fort Collins
-73183,75422,2022-02-09,Male,20.0,Confirmed,Fort Collins
-73184,75423,2022-02-09,Female,20.0,Confirmed,Fort Collins
-73185,75425,2022-02-09,Male,21.0,Confirmed,Loveland
-73186,75426,2022-02-09,Male,21.0,Probable,Fort Collins
-73187,75427,2022-02-09,Male,21.0,Probable,Fort Collins
-73188,75428,2022-02-09,Female,21.0,Confirmed,Fort Collins
-73189,75430,2022-02-09,Female,21.0,Confirmed,Fort Collins
-73190,75431,2022-02-09,Female,22.0,Probable,Fort Collins
-73191,75432,2022-02-09,Male,22.0,Confirmed,Fort Collins
-73192,75433,2022-02-09,Female,22.0,Confirmed,Fort Collins
-73193,75434,2022-02-09,Male,22.0,Confirmed,Fort Collins
-73194,75435,2022-02-09,Male,22.0,Probable,Fort Collins
-73195,75436,2022-02-09,Female,23.0,Confirmed,Timnath
-73196,75437,2022-02-09,Male,23.0,Confirmed,Fort Collins
-73197,75438,2022-02-09,Female,24.0,Probable,Fort Collins
-73198,75439,2022-02-09,Female,24.0,Confirmed,Loveland
-73199,75440,2022-02-09,Female,24.0,Confirmed,Fort Collins
-73200,75441,2022-02-09,Female,25.0,Confirmed,Fort Collins
-73201,75442,2022-02-09,Female,25.0,Probable,Loveland
-73202,75443,2022-02-09,Male,25.0,Confirmed,Fort Collins
-73203,75444,2022-02-09,Male,25.0,Confirmed,Loveland
-73204,75445,2022-02-09,Female,25.0,Confirmed,Johnstown
-73205,75446,2022-02-09,Female,26.0,Confirmed,Loveland
-73206,75447,2022-02-09,Female,26.0,Confirmed,Fort Collins
-73207,75448,2022-02-09,Male,28.0,Confirmed,Fort Collins
-73208,75449,2022-02-09,Female,28.0,Confirmed,Fort Collins
-73209,75451,2022-02-09,Male,29.0,Confirmed,Fort Collins
-73210,75452,2022-02-09,Female,29.0,Confirmed,Fort Collins
-73211,75453,2022-02-09,Male,29.0,Confirmed,Fort Collins
-73212,75454,2022-02-09,Male,29.0,Confirmed,Loveland
-73213,75455,2022-02-09,Female,29.0,Confirmed,Loveland
-73214,75456,2022-02-09,Male,30.0,Confirmed,Fort Collins
-73215,75457,2022-02-09,Male,30.0,Probable,Loveland
-73216,75458,2022-02-09,Female,30.0,Confirmed,Fort Collins
-73217,75459,2022-02-09,Female,30.0,Probable,Fort Collins
-73218,75460,2022-02-09,Female,30.0,Confirmed,Fort Collins
-73219,75461,2022-02-09,Female,31.0,Confirmed,Loveland
-73220,75462,2022-02-09,Female,31.0,Probable,Fort Collins
-73221,75463,2022-02-09,Female,31.0,Confirmed,Fort Collins
-73222,75464,2022-02-09,Female,31.0,Confirmed,Wellington
-73223,75465,2022-02-09,Female,31.0,Confirmed,Loveland
-73224,75466,2022-02-09,Male,32.0,Confirmed,Fort Collins
-73225,75467,2022-02-09,Female,32.0,Confirmed,Fort Collins
-73226,75468,2022-02-09,Male,32.0,Confirmed,Fort Collins
-73227,75469,2022-02-09,Female,33.0,Confirmed,Fort Collins
-73228,75470,2022-02-09,Male,33.0,Probable,Fort Collins
-73229,75471,2022-02-09,Male,34.0,Confirmed,Fort Collins
-73230,75472,2022-02-09,Female,34.0,Confirmed,Fort Collins
-73231,75473,2022-02-09,Female,34.0,Confirmed,Loveland
-73232,75474,2022-02-09,Female,35.0,Probable,Loveland
-73233,75475,2022-02-09,Male,35.0,Confirmed,Estes Park
-73234,75476,2022-02-09,Female,35.0,Probable,Fort Collins
-73235,75477,2022-02-09,Male,36.0,Probable,Loveland
-73236,75478,2022-02-09,Male,36.0,Confirmed,Wellington
-73237,75479,2022-02-09,Female,36.0,Confirmed,Loveland
-73238,75480,2022-02-09,Female,37.0,Confirmed,Fort Collins
-73239,75481,2022-02-09,Female,37.0,Confirmed,Fort Collins
-73240,75482,2022-02-09,Female,37.0,Confirmed,Fort Collins
-73241,75483,2022-02-09,Female,37.0,Probable,Fort Collins
-73242,75484,2022-02-09,Male,37.0,Confirmed,Fort Collins
-73243,75485,2022-02-09,Female,38.0,Confirmed,Fort Collins
-73244,75486,2022-02-09,Female,38.0,Confirmed,Fort Collins
-73245,75487,2022-02-09,Female,38.0,Confirmed,Fort Collins
-73246,75488,2022-02-09,Female,38.0,Confirmed,Fort Collins
-73247,75489,2022-02-09,Male,38.0,Confirmed,Loveland
-73248,75490,2022-02-09,Female,38.0,Confirmed,Loveland
-73249,75491,2022-02-09,Male,39.0,Confirmed,Fort Collins
-73250,75492,2022-02-09,Female,39.0,Confirmed,Fort Collins
-73251,75493,2022-02-09,Female,39.0,Confirmed,Loveland
-73252,75494,2022-02-09,Female,39.0,Probable,Johnstown
-73253,75495,2022-02-09,Male,39.0,Confirmed,Fort Collins
-73254,75496,2022-02-09,Female,39.0,Confirmed,Fort Collins
-73255,75497,2022-02-09,Female,40.0,Confirmed,Fort Collins
-73256,75498,2022-02-09,Male,40.0,Probable,Loveland
-73257,75499,2022-02-09,Female,40.0,Confirmed,Fort Collins
-73258,75500,2022-02-09,Male,40.0,Confirmed,Loveland
-73259,75501,2022-02-09,Female,40.0,Confirmed,Loveland
-73260,75502,2022-02-09,Female,40.0,Confirmed,Berthoud
-73261,75503,2022-02-09,Male,40.0,Confirmed,Fort Collins
-73262,75504,2022-02-09,Female,40.0,Confirmed,Wellington
-73263,75505,2022-02-09,Male,41.0,Confirmed,Fort Collins
-73264,75506,2022-02-09,Male,43.0,Probable,Fort Collins
-73265,75508,2022-02-09,Male,43.0,Confirmed,Fort Collins
-73266,75509,2022-02-09,Female,44.0,Confirmed,Berthoud
-73267,75510,2022-02-09,Female,45.0,Probable,Fort Collins
-73268,75511,2022-02-09,Female,45.0,Confirmed,Loveland
-73269,75512,2022-02-09,Male,46.0,Confirmed,Fort Collins
-73270,75513,2022-02-09,Male,46.0,Confirmed,Loveland
-73271,75515,2022-02-09,Female,47.0,Confirmed,Fort Collins
-73272,75516,2022-02-09,Female,47.0,Confirmed,Fort Collins
-73273,75517,2022-02-09,Female,48.0,Probable,Fort Collins
-73274,75518,2022-02-09,Female,48.0,Confirmed,Loveland
-73275,75519,2022-02-09,Male,49.0,Confirmed,Fort Collins
-73276,75520,2022-02-09,Male,49.0,Confirmed,Loveland
-73277,75521,2022-02-09,Male,49.0,Confirmed,Fort Collins
-73278,75522,2022-02-09,Female,49.0,Confirmed,Fort Collins
-73279,75523,2022-02-09,Female,49.0,Probable,Bellvue
-73280,75524,2022-02-09,Female,49.0,Confirmed,Fort Collins
-73281,75525,2022-02-09,Female,50.0,Confirmed,Loveland
-73282,75526,2022-02-09,Female,51.0,Confirmed,Loveland
-73283,75527,2022-02-09,Male,52.0,Probable,Fort Collins
-73284,75528,2022-02-09,Male,55.0,Confirmed,Fort Collins
-73285,75529,2022-02-09,Male,55.0,Confirmed,Fort Collins
-73286,75530,2022-02-09,Female,56.0,Confirmed,Fort Collins
-73287,75531,2022-02-09,Male,57.0,Confirmed,Loveland
-73288,75532,2022-02-09,Female,58.0,Confirmed,Loveland
-73289,75533,2022-02-09,Female,59.0,Probable,Loveland
-73290,75534,2022-02-09,Male,59.0,Confirmed,Fort Collins
-73291,75535,2022-02-09,Male,59.0,Confirmed,Loveland
-73292,75536,2022-02-09,Female,59.0,Confirmed,Berthoud
-73293,75537,2022-02-09,Male,60.0,Confirmed,Berthoud
-73294,75538,2022-02-09,Male,60.0,Confirmed,Windsor
-73295,75539,2022-02-09,Female,60.0,Confirmed,Loveland
-73296,75540,2022-02-09,Female,62.0,Confirmed,Loveland
-73297,75541,2022-02-09,Male,63.0,Confirmed,Estes Park
-73298,75542,2022-02-09,Male,64.0,Confirmed,Loveland
-73299,75543,2022-02-09,Male,66.0,Confirmed,Fort Collins
-73300,75544,2022-02-09,Unknown,66.0,Probable,Fort Collins
-73301,75545,2022-02-09,Male,67.0,Confirmed,Livermore
-73302,75546,2022-02-09,Male,67.0,Confirmed,Fort Collins
-73303,75547,2022-02-09,Male,69.0,Confirmed,Fort Collins
-73304,75548,2022-02-09,Male,69.0,Confirmed,Fort Collins
-73305,75549,2022-02-09,Male,71.0,Confirmed,Loveland
-73306,75550,2022-02-09,Female,72.0,Confirmed,Windsor
-73307,75551,2022-02-09,Male,72.0,Confirmed,Fort Collins
-73308,75552,2022-02-09,Female,72.0,Confirmed,Fort Collins
-73309,75553,2022-02-09,Male,73.0,Confirmed,Timnath
-73310,75554,2022-02-09,Male,73.0,Confirmed,Timnath
-73311,75555,2022-02-09,Female,73.0,Confirmed,Loveland
-73312,75556,2022-02-09,Female,73.0,Confirmed,Loveland
-73313,75557,2022-02-09,Male,74.0,Confirmed,Fort Collins
-73314,75558,2022-02-09,Female,75.0,Confirmed,Loveland
-73315,75559,2022-02-09,Male,77.0,Confirmed,Fort Collins
-73316,75560,2022-02-09,Male,78.0,Confirmed,Berthoud
-73317,75561,2022-02-09,Male,78.0,Confirmed,Loveland
-73318,75562,2022-02-09,Male,81.0,Confirmed,Loveland
-73319,75563,2022-02-09,Female,83.0,Probable,Timnath
-73320,75564,2022-02-09,Female,83.0,Confirmed,Fort Collins
-73321,75565,2022-02-09,Female,87.0,Confirmed,Fort Collins
-73322,75566,2022-02-09,Female,90.0,Confirmed,Loveland
-73323,75567,2022-02-09,Female,90.0,Confirmed,Fort Collins
-73324,75568,2022-02-09,Female,91.0,Confirmed,Loveland
-73325,75569,2022-02-09,Male,96.0,Confirmed,Loveland
-73326,75571,2022-02-10,Male,7.0,Confirmed,Fort Collins
-73327,75574,2022-02-10,Female,20.0,Probable,Fort Collins
-73328,75577,2022-02-10,Female,24.0,Confirmed,Johnstown
-73329,75578,2022-02-10,Female,25.0,Probable,Fort Collins
-73330,75579,2022-02-10,Male,26.0,Confirmed,Fort Collins
-73331,75580,2022-02-10,Male,30.0,Confirmed,Fort Collins
-73332,75581,2022-02-10,Female,31.0,Confirmed,Fort Collins
-73333,75582,2022-02-10,Female,33.0,Probable,Timnath
-73334,75583,2022-02-10,Female,39.0,Confirmed,Berthoud
-73335,75586,2022-02-10,Female,63.0,Confirmed,Estes Park
-73336,75587,2022-02-10,Male,68.0,Confirmed,Fort Collins
+73059,75293,2022-02-08,Female,40.0,Confirmed,Fort Collins
+73060,75294,2022-02-08,Female,40.0,Confirmed,Fort Collins
+73061,75295,2022-02-08,Female,40.0,Confirmed,Fort Collins
+73062,75296,2022-02-08,Male,40.0,Confirmed,Fort Collins
+73063,75297,2022-02-08,Female,40.0,Confirmed,Wellington
+73064,75298,2022-02-08,Female,41.0,Confirmed,Fort Collins
+73065,75299,2022-02-08,Female,41.0,Confirmed,Loveland
+73066,75300,2022-02-08,Male,41.0,Confirmed,Loveland
+73067,75301,2022-02-08,Female,42.0,Probable,Fort Collins
+73068,75302,2022-02-08,Female,42.0,Confirmed,Berthoud
+73069,75303,2022-02-08,Male,42.0,Confirmed,Fort Collins
+73070,75304,2022-02-08,Male,42.0,Confirmed,Fort Collins
+73071,75305,2022-02-08,Female,42.0,Confirmed,Fort Collins
+73072,75306,2022-02-08,Male,43.0,Probable,Loveland
+73073,75307,2022-02-08,Female,43.0,Probable,Fort Collins
+73074,75308,2022-02-08,Female,43.0,Probable,Fort Collins
+73075,75309,2022-02-08,Female,43.0,Confirmed,Fort Collins
+73076,75310,2022-02-08,Female,43.0,Confirmed,Estes Park
+73077,75311,2022-02-08,Female,44.0,Confirmed,Fort Collins
+73078,75312,2022-02-08,Female,44.0,Probable,Fort Collins
+73079,75313,2022-02-08,Female,44.0,Confirmed,Berthoud
+73080,75314,2022-02-08,Male,45.0,Confirmed,Bellvue
+73081,75315,2022-02-08,Female,45.0,Probable,Fort Collins
+73082,75316,2022-02-08,Male,46.0,Confirmed,Timnath
+73083,75317,2022-02-08,Male,46.0,Confirmed,Berthoud
+73084,75318,2022-02-08,Male,47.0,Confirmed,Fort Collins
+73085,75319,2022-02-08,Male,48.0,Confirmed,Loveland
+73086,75320,2022-02-08,Male,48.0,Probable,Loveland
+73087,75321,2022-02-08,Male,48.0,Confirmed,Fort Collins
+73088,75322,2022-02-08,Male,50.0,Probable,Bellvue
+73089,75323,2022-02-08,Male,50.0,Confirmed,Loveland
+73090,75324,2022-02-08,Female,50.0,Confirmed,Fort Collins
+73091,75325,2022-02-08,Male,51.0,Probable,Fort Collins
+73092,75326,2022-02-08,Female,52.0,Probable,Loveland
+73093,75327,2022-02-08,Male,52.0,Confirmed,Fort Collins
+73094,75328,2022-02-08,Female,52.0,Confirmed,Loveland
+73095,75329,2022-02-08,Male,53.0,Confirmed,Loveland
+73096,75330,2022-02-08,Female,53.0,Probable,Bellvue
+73097,75331,2022-02-08,Male,53.0,Confirmed,Loveland
+73098,75332,2022-02-08,Male,53.0,Confirmed,Fort Collins
+73099,75333,2022-02-08,Male,54.0,Confirmed,Fort Collins
+73100,75334,2022-02-08,Male,55.0,Probable,Fort Collins
+73101,75335,2022-02-08,Male,56.0,Confirmed,Fort Collins
+73102,75336,2022-02-08,Female,56.0,Confirmed,Loveland
+73103,75337,2022-02-08,Male,56.0,Confirmed,Berthoud
+73104,75338,2022-02-08,Male,57.0,Probable,Fort Collins
+73105,75339,2022-02-08,Male,57.0,Confirmed,Fort Collins
+73106,75340,2022-02-08,Male,58.0,Confirmed,Fort Collins
+73107,75341,2022-02-08,Female,58.0,Confirmed,Loveland
+73108,75342,2022-02-08,Female,59.0,Confirmed,Fort Collins
+73109,75343,2022-02-08,Male,59.0,Confirmed,Fort Collins
+73110,75344,2022-02-08,Male,60.0,Confirmed,Timnath
+73111,75345,2022-02-08,Male,61.0,Confirmed,Loveland
+73112,75346,2022-02-08,Female,61.0,Confirmed,Loveland
+73113,75347,2022-02-08,Female,61.0,Confirmed,Fort Collins
+73114,75348,2022-02-08,Male,61.0,Probable,Loveland
+73115,75349,2022-02-08,Female,62.0,Confirmed,Fort Collins
+73116,75350,2022-02-08,Male,62.0,Confirmed,Fort Collins
+73117,75351,2022-02-08,Female,62.0,Confirmed,Fort Collins
+73118,75352,2022-02-08,Female,63.0,Confirmed,Wellington
+73119,75353,2022-02-08,Female,63.0,Confirmed,Fort Collins
+73120,75354,2022-02-08,Female,64.0,Probable,Fort Collins
+73121,75355,2022-02-08,Male,65.0,Confirmed,Fort Collins
+73122,75356,2022-02-08,Male,66.0,Confirmed,Loveland
+73123,75357,2022-02-08,Male,66.0,Confirmed,Fort Collins
+73124,75358,2022-02-08,Male,66.0,Probable,Fort Collins
+73125,75359,2022-02-08,Male,66.0,Probable,Fort Collins
+73126,75360,2022-02-08,Male,66.0,Confirmed,Fort Collins
+73127,75361,2022-02-08,Male,67.0,Confirmed,Fort Collins
+73128,75362,2022-02-08,Female,67.0,Confirmed,Loveland
+73129,75363,2022-02-08,Female,67.0,Confirmed,Fort Collins
+73130,75364,2022-02-08,Female,68.0,Confirmed,Loveland
+73131,75365,2022-02-08,Female,68.0,Confirmed,Fort Collins
+73132,75366,2022-02-08,Female,70.0,Confirmed,Loveland
+73133,75367,2022-02-08,Female,71.0,Confirmed,Loveland
+73134,75368,2022-02-08,Female,73.0,Confirmed,Loveland
+73135,75369,2022-02-08,Female,73.0,Confirmed,Berthoud
+73136,75370,2022-02-08,Female,76.0,Confirmed,Fort Collins
+73137,75371,2022-02-08,Female,77.0,Confirmed,Loveland
+73138,75372,2022-02-08,Male,77.0,Confirmed,Loveland
+73139,75373,2022-02-08,Female,77.0,Confirmed,Fort Collins
+73140,75374,2022-02-08,Female,82.0,Probable,Wellington
+73141,75375,2022-02-08,Female,83.0,Confirmed,Berthoud
+73142,75376,2022-02-08,Female,84.0,Confirmed,Fort Collins
+73143,75377,2022-02-08,Male,91.0,Confirmed,Loveland
+73144,75378,2022-02-08,Female,92.0,Confirmed,Loveland
+73145,75379,2022-02-08,Male,92.0,Confirmed,Windsor
+73146,75380,2022-02-09,Male,0.0,Confirmed,Loveland
+73147,75381,2022-02-09,Female,0.0,Probable,Wellington
+73148,75382,2022-02-09,Male,0.0,Confirmed,Fort Collins
+73149,75383,2022-02-09,Female,1.0,Confirmed,Fort Collins
+73150,75384,2022-02-09,Female,1.0,Probable,Fort Collins
+73151,75385,2022-02-09,Male,1.0,Confirmed,Fort Collins
+73152,75386,2022-02-09,Female,3.0,Probable,Fort Collins
+73153,75387,2022-02-09,Male,3.0,Probable,Fort Collins
+73154,75388,2022-02-09,Female,3.0,Confirmed,Estes Park
+73155,75389,2022-02-09,Female,4.0,Confirmed,Loveland
+73156,75390,2022-02-09,Male,4.0,Confirmed,Fort Collins
+73157,75391,2022-02-09,Male,5.0,Probable,Fort Collins
+73158,75392,2022-02-09,Male,5.0,Probable,Berthoud
+73159,75393,2022-02-09,Male,5.0,Probable,Timnath
+73160,75394,2022-02-09,Female,5.0,Confirmed,Fort Collins
+73161,75395,2022-02-09,Female,6.0,Probable,Fort Collins
+73162,75396,2022-02-09,Male,6.0,Probable,Fort Collins
+73163,75397,2022-02-09,Male,6.0,Confirmed,Fort Collins
+73164,75398,2022-02-09,Female,7.0,Probable,Fort Collins
+73165,75399,2022-02-09,Female,7.0,Probable,Fort Collins
+73166,75400,2022-02-09,Female,8.0,Confirmed,Fort Collins
+73167,75401,2022-02-09,Male,8.0,Probable,Loveland
+73168,75402,2022-02-09,Male,9.0,Probable,Fort Collins
+73169,75403,2022-02-09,Male,9.0,Probable,Loveland
+73170,75404,2022-02-09,Male,9.0,Confirmed,Fort Collins
+73171,75405,2022-02-09,Male,9.0,Probable,Fort Collins
+73172,75406,2022-02-09,Female,9.0,Confirmed,Loveland
+73173,75407,2022-02-09,Male,11.0,Probable,Loveland
+73174,75408,2022-02-09,Female,11.0,Confirmed,Fort Collins
+73175,75409,2022-02-09,Female,12.0,Probable,Fort Collins
+73176,75410,2022-02-09,Male,12.0,Confirmed,Berthoud
+73177,75411,2022-02-09,Female,13.0,Confirmed,Berthoud
+73178,75412,2022-02-09,Female,13.0,Confirmed,Loveland
+73179,75413,2022-02-09,Male,13.0,Confirmed,Loveland
+73180,75414,2022-02-09,Male,13.0,Confirmed,Fort Collins
+73181,75415,2022-02-09,Female,13.0,Confirmed,Fort Collins
+73182,75416,2022-02-09,Female,14.0,Confirmed,Loveland
+73183,75417,2022-02-09,Male,15.0,Probable,Fort Collins
+73184,75418,2022-02-09,Male,16.0,Confirmed,Fort Collins
+73185,75419,2022-02-09,Male,16.0,Confirmed,Fort Collins
+73186,75420,2022-02-09,Female,18.0,Probable,Fort Collins
+73187,75422,2022-02-09,Male,18.0,Confirmed,Fort Collins
+73188,75423,2022-02-09,Male,18.0,Confirmed,Loveland
+73189,75427,2022-02-09,Female,19.0,Probable,Fort Collins
+73190,75428,2022-02-09,Female,19.0,Confirmed,Fort Collins
+73191,75429,2022-02-09,Male,19.0,Confirmed,Fort Collins
+73192,75431,2022-02-09,Female,20.0,Confirmed,Fort Collins
+73193,75432,2022-02-09,Female,20.0,Probable,Fort Collins
+73194,75433,2022-02-09,Male,20.0,Confirmed,Fort Collins
+73195,75434,2022-02-09,Female,20.0,Confirmed,Fort Collins
+73196,75436,2022-02-09,Male,21.0,Confirmed,Loveland
+73197,75437,2022-02-09,Male,21.0,Probable,Fort Collins
+73198,75438,2022-02-09,Male,21.0,Probable,Fort Collins
+73199,75439,2022-02-09,Female,21.0,Confirmed,Fort Collins
+73200,75441,2022-02-09,Female,21.0,Confirmed,Fort Collins
+73201,75442,2022-02-09,Male,21.0,Confirmed,Fort Collins
+73202,75443,2022-02-09,Female,22.0,Probable,Fort Collins
+73203,75444,2022-02-09,Male,22.0,Confirmed,Fort Collins
+73204,75445,2022-02-09,Female,22.0,Confirmed,Fort Collins
+73205,75446,2022-02-09,Male,22.0,Confirmed,Fort Collins
+73206,75447,2022-02-09,Male,22.0,Probable,Fort Collins
+73207,75448,2022-02-09,Female,22.0,Confirmed,Fort Collins
+73208,75449,2022-02-09,Female,23.0,Confirmed,Timnath
+73209,75450,2022-02-09,Male,23.0,Confirmed,Fort Collins
+73210,75451,2022-02-09,Female,24.0,Probable,Fort Collins
+73211,75452,2022-02-09,Female,24.0,Confirmed,Loveland
+73212,75453,2022-02-09,Female,24.0,Confirmed,Fort Collins
+73213,75454,2022-02-09,Female,25.0,Confirmed,Fort Collins
+73214,75455,2022-02-09,Female,25.0,Probable,Loveland
+73215,75456,2022-02-09,Male,25.0,Confirmed,Fort Collins
+73216,75457,2022-02-09,Male,25.0,Confirmed,Loveland
+73217,75458,2022-02-09,Female,25.0,Confirmed,Johnstown
+73218,75459,2022-02-09,Female,26.0,Confirmed,Loveland
+73219,75460,2022-02-09,Female,26.0,Confirmed,Fort Collins
+73220,75461,2022-02-09,Male,28.0,Confirmed,Fort Collins
+73221,75462,2022-02-09,Female,28.0,Confirmed,Fort Collins
+73222,75464,2022-02-09,Male,29.0,Confirmed,Fort Collins
+73223,75465,2022-02-09,Female,29.0,Confirmed,Fort Collins
+73224,75466,2022-02-09,Male,29.0,Confirmed,Fort Collins
+73225,75467,2022-02-09,Male,29.0,Confirmed,Loveland
+73226,75468,2022-02-09,Female,29.0,Confirmed,Loveland
+73227,75469,2022-02-09,Male,30.0,Confirmed,Fort Collins
+73228,75470,2022-02-09,Male,30.0,Probable,Loveland
+73229,75471,2022-02-09,Female,30.0,Confirmed,Fort Collins
+73230,75472,2022-02-09,Female,30.0,Probable,Fort Collins
+73231,75473,2022-02-09,Female,30.0,Confirmed,Fort Collins
+73232,75474,2022-02-09,Female,31.0,Confirmed,Loveland
+73233,75475,2022-02-09,Female,31.0,Probable,Fort Collins
+73234,75476,2022-02-09,Female,31.0,Confirmed,Fort Collins
+73235,75477,2022-02-09,Female,31.0,Confirmed,Wellington
+73236,75478,2022-02-09,Female,31.0,Confirmed,Loveland
+73237,75479,2022-02-09,Male,31.0,Confirmed,Fort Collins
+73238,75480,2022-02-09,Male,32.0,Confirmed,Fort Collins
+73239,75481,2022-02-09,Female,32.0,Confirmed,Fort Collins
+73240,75482,2022-02-09,Male,32.0,Confirmed,Fort Collins
+73241,75483,2022-02-09,Female,33.0,Confirmed,Fort Collins
+73242,75484,2022-02-09,Male,33.0,Probable,Fort Collins
+73243,75485,2022-02-09,Male,34.0,Confirmed,Fort Collins
+73244,75486,2022-02-09,Female,34.0,Confirmed,Fort Collins
+73245,75487,2022-02-09,Female,34.0,Confirmed,Loveland
+73246,75488,2022-02-09,Female,34.0,Confirmed,Loveland
+73247,75489,2022-02-09,Female,35.0,Probable,Loveland
+73248,75490,2022-02-09,Male,35.0,Confirmed,Estes Park
+73249,75491,2022-02-09,Female,35.0,Probable,Fort Collins
+73250,75492,2022-02-09,Male,36.0,Probable,Loveland
+73251,75493,2022-02-09,Male,36.0,Confirmed,Wellington
+73252,75494,2022-02-09,Female,36.0,Confirmed,Loveland
+73253,75495,2022-02-09,Female,37.0,Confirmed,Fort Collins
+73254,75496,2022-02-09,Female,37.0,Confirmed,Fort Collins
+73255,75497,2022-02-09,Female,37.0,Confirmed,Fort Collins
+73256,75498,2022-02-09,Female,37.0,Probable,Fort Collins
+73257,75499,2022-02-09,Male,37.0,Confirmed,Fort Collins
+73258,75500,2022-02-09,Female,38.0,Confirmed,Fort Collins
+73259,75501,2022-02-09,Female,38.0,Confirmed,Fort Collins
+73260,75502,2022-02-09,Female,38.0,Confirmed,Fort Collins
+73261,75503,2022-02-09,Female,38.0,Confirmed,Fort Collins
+73262,75504,2022-02-09,Male,38.0,Confirmed,Loveland
+73263,75505,2022-02-09,Female,38.0,Confirmed,Loveland
+73264,75506,2022-02-09,Female,38.0,Confirmed,Loveland
+73265,75507,2022-02-09,Male,39.0,Confirmed,Fort Collins
+73266,75508,2022-02-09,Female,39.0,Confirmed,Fort Collins
+73267,75509,2022-02-09,Female,39.0,Confirmed,Loveland
+73268,75510,2022-02-09,Female,39.0,Probable,Johnstown
+73269,75511,2022-02-09,Male,39.0,Confirmed,Fort Collins
+73270,75512,2022-02-09,Female,39.0,Confirmed,Fort Collins
+73271,75513,2022-02-09,Male,39.0,Confirmed,Fort Collins
+73272,75514,2022-02-09,Female,40.0,Confirmed,Fort Collins
+73273,75515,2022-02-09,Male,40.0,Probable,Loveland
+73274,75516,2022-02-09,Female,40.0,Confirmed,Fort Collins
+73275,75517,2022-02-09,Male,40.0,Confirmed,Loveland
+73276,75518,2022-02-09,Female,40.0,Confirmed,Loveland
+73277,75519,2022-02-09,Female,40.0,Confirmed,Berthoud
+73278,75520,2022-02-09,Male,40.0,Confirmed,Fort Collins
+73279,75521,2022-02-09,Female,40.0,Confirmed,Wellington
+73280,75522,2022-02-09,Male,41.0,Confirmed,Fort Collins
+73281,75523,2022-02-09,Male,43.0,Probable,Fort Collins
+73282,75525,2022-02-09,Male,43.0,Confirmed,Fort Collins
+73283,75526,2022-02-09,Female,43.0,Confirmed,Fort Collins
+73284,75527,2022-02-09,Female,44.0,Confirmed,Berthoud
+73285,75528,2022-02-09,Female,45.0,Probable,Fort Collins
+73286,75529,2022-02-09,Female,45.0,Confirmed,Loveland
+73287,75530,2022-02-09,Male,46.0,Confirmed,Fort Collins
+73288,75531,2022-02-09,Male,46.0,Confirmed,Loveland
+73289,75533,2022-02-09,Female,46.0,Confirmed,Estes Park
+73290,75534,2022-02-09,Female,47.0,Confirmed,Fort Collins
+73291,75535,2022-02-09,Female,47.0,Confirmed,Fort Collins
+73292,75536,2022-02-09,Female,47.0,Confirmed,Wellington
+73293,75537,2022-02-09,Female,48.0,Probable,Fort Collins
+73294,75538,2022-02-09,Female,48.0,Confirmed,Loveland
+73295,75539,2022-02-09,Male,49.0,Confirmed,Fort Collins
+73296,75540,2022-02-09,Male,49.0,Confirmed,Loveland
+73297,75541,2022-02-09,Male,49.0,Confirmed,Fort Collins
+73298,75542,2022-02-09,Female,49.0,Confirmed,Fort Collins
+73299,75543,2022-02-09,Female,49.0,Probable,Bellvue
+73300,75544,2022-02-09,Female,49.0,Confirmed,Fort Collins
+73301,75545,2022-02-09,Female,50.0,Confirmed,Loveland
+73302,75546,2022-02-09,Female,50.0,Confirmed,Fort Collins
+73303,75547,2022-02-09,Female,51.0,Confirmed,Loveland
+73304,75548,2022-02-09,Male,52.0,Probable,Fort Collins
+73305,75549,2022-02-09,Male,55.0,Confirmed,Fort Collins
+73306,75550,2022-02-09,Male,55.0,Confirmed,Fort Collins
+73307,75551,2022-02-09,Female,56.0,Confirmed,Fort Collins
+73308,75552,2022-02-09,Male,57.0,Confirmed,Loveland
+73309,75553,2022-02-09,Female,57.0,Confirmed,Fort Collins
+73310,75554,2022-02-09,Female,58.0,Confirmed,Loveland
+73311,75555,2022-02-09,Female,59.0,Probable,Loveland
+73312,75556,2022-02-09,Male,59.0,Confirmed,Fort Collins
+73313,75557,2022-02-09,Male,59.0,Confirmed,Loveland
+73314,75558,2022-02-09,Female,59.0,Confirmed,Berthoud
+73315,75559,2022-02-09,Male,60.0,Confirmed,Berthoud
+73316,75560,2022-02-09,Male,60.0,Confirmed,Windsor
+73317,75561,2022-02-09,Female,60.0,Confirmed,Loveland
+73318,75562,2022-02-09,Female,62.0,Confirmed,Loveland
+73319,75563,2022-02-09,Male,63.0,Confirmed,Estes Park
+73320,75564,2022-02-09,Female,63.0,Confirmed,Fort Collins
+73321,75565,2022-02-09,Male,64.0,Confirmed,Loveland
+73322,75566,2022-02-09,Female,64.0,Confirmed,Johnstown
+73323,75567,2022-02-09,Male,66.0,Confirmed,Fort Collins
+73324,75568,2022-02-09,Unknown,66.0,Probable,Fort Collins
+73325,75569,2022-02-09,Male,67.0,Confirmed,Livermore
+73326,75570,2022-02-09,Male,67.0,Confirmed,Fort Collins
+73327,75571,2022-02-09,Male,69.0,Confirmed,Fort Collins
+73328,75572,2022-02-09,Male,69.0,Confirmed,Fort Collins
+73329,75573,2022-02-09,Male,71.0,Confirmed,Loveland
+73330,75574,2022-02-09,Female,72.0,Confirmed,Windsor
+73331,75575,2022-02-09,Male,72.0,Confirmed,Fort Collins
+73332,75576,2022-02-09,Female,72.0,Confirmed,Fort Collins
+73333,75577,2022-02-09,Male,73.0,Confirmed,Timnath
+73334,75578,2022-02-09,Male,73.0,Confirmed,Timnath
+73335,75579,2022-02-09,Female,73.0,Confirmed,Loveland
+73336,75580,2022-02-09,Female,73.0,Confirmed,Loveland
+73337,75581,2022-02-09,Male,74.0,Confirmed,Fort Collins
+73338,75582,2022-02-09,Male,74.0,Confirmed,Loveland
+73339,75583,2022-02-09,Female,75.0,Confirmed,Loveland
+73340,75584,2022-02-09,Male,76.0,Confirmed,Loveland
+73341,75585,2022-02-09,Male,77.0,Confirmed,Fort Collins
+73342,75586,2022-02-09,Male,77.0,Confirmed,Fort Collins
+73343,75587,2022-02-09,Male,78.0,Confirmed,Berthoud
+73344,75588,2022-02-09,Male,78.0,Confirmed,Loveland
+73345,75589,2022-02-09,Male,81.0,Confirmed,Loveland
+73346,75590,2022-02-09,Female,83.0,Probable,Timnath
+73347,75591,2022-02-09,Female,83.0,Confirmed,Fort Collins
+73348,75592,2022-02-09,Female,87.0,Confirmed,Fort Collins
+73349,75593,2022-02-09,Female,87.0,Confirmed,Fort Collins
+73350,75594,2022-02-09,Female,90.0,Confirmed,Loveland
+73351,75595,2022-02-09,Female,90.0,Confirmed,Fort Collins
+73352,75596,2022-02-09,Female,91.0,Confirmed,Loveland
+73353,75597,2022-02-09,Male,96.0,Confirmed,Loveland
+73354,75600,2022-02-10,Male,1.0,Probable,Fort Collins
+73355,75601,2022-02-10,Unknown,1.0,Probable,Fort Collins
+73356,75602,2022-02-10,Unknown,1.0,Probable,Fort Collins
+73357,75603,2022-02-10,Female,2.0,Probable,Fort Collins
+73358,75604,2022-02-10,Unknown,2.0,Probable,Fort Collins
+73359,75605,2022-02-10,Unknown,3.0,Probable,Fort Collins
+73360,75606,2022-02-10,Unknown,5.0,Probable,Fort Collins
+73361,75607,2022-02-10,Unknown,5.0,Probable,Fort Collins
+73362,75608,2022-02-10,Male,7.0,Confirmed,Fort Collins
+73363,75609,2022-02-10,Male,7.0,Confirmed,Fort Collins
+73364,75610,2022-02-10,Male,7.0,Confirmed,Loveland
+73365,75611,2022-02-10,Male,10.0,Confirmed,Loveland
+73366,75612,2022-02-10,Female,12.0,Confirmed,Loveland
+73367,75613,2022-02-10,Unknown,16.0,Probable,LaPorte
+73368,75616,2022-02-10,Female,19.0,Confirmed,Fort Collins
+73369,75617,2022-02-10,Male,19.0,Probable,Fort Collins
+73370,75618,2022-02-10,Female,19.0,Probable,Fort Collins
+73371,75619,2022-02-10,Female,19.0,Probable,Fort Collins
+73372,75621,2022-02-10,Female,19.0,Confirmed,Fort Collins
+73373,75623,2022-02-10,Male,19.0,Probable,Fort Collins
+73374,75624,2022-02-10,Female,19.0,Probable,Fort Collins
+73375,75625,2022-02-10,Female,20.0,Probable,Fort Collins
+73376,75626,2022-02-10,Female,20.0,Probable,Fort Collins
+73377,75627,2022-02-10,Female,20.0,Probable,Fort Collins
+73378,75628,2022-02-10,Female,20.0,Probable,Fort Collins
+73379,75629,2022-02-10,Female,20.0,Probable,Fort Collins
+73380,75630,2022-02-10,Female,20.0,Probable,Fort Collins
+73381,75631,2022-02-10,Male,20.0,Probable,Fort Collins
+73382,75633,2022-02-10,Female,20.0,Probable,Fort Collins
+73383,75634,2022-02-10,Male,20.0,Probable,Fort Collins
+73384,75635,2022-02-10,Female,20.0,Probable,Fort Collins
+73385,75637,2022-02-10,Male,21.0,Probable,Fort Collins
+73386,75638,2022-02-10,Female,21.0,Probable,Fort Collins
+73387,75640,2022-02-10,Male,21.0,Probable,Fort Collins
+73388,75641,2022-02-10,Male,21.0,Confirmed,Berthoud
+73389,75642,2022-02-10,Female,21.0,Probable,Fort Collins
+73390,75644,2022-02-10,Female,22.0,Probable,Fort Collins
+73391,75645,2022-02-10,Female,22.0,Confirmed,Fort Collins
+73392,75646,2022-02-10,Male,22.0,Probable,Fort Collins
+73393,75647,2022-02-10,Male,22.0,Probable,Wellington
+73394,75648,2022-02-10,Female,23.0,Probable,Loveland
+73395,75649,2022-02-10,Female,24.0,Confirmed,Johnstown
+73396,75650,2022-02-10,Unknown,24.0,Probable,Fort Collins
+73397,75651,2022-02-10,Female,25.0,Probable,Fort Collins
+73398,75652,2022-02-10,Female,25.0,Confirmed,Fort Collins
+73399,75653,2022-02-10,Female,25.0,Confirmed,Loveland
+73400,75654,2022-02-10,Male,25.0,Confirmed,Loveland
+73401,75655,2022-02-10,Male,26.0,Confirmed,Fort Collins
+73402,75656,2022-02-10,Male,26.0,Probable,Fort Collins
+73403,75657,2022-02-10,Female,26.0,Confirmed,Loveland
+73404,75658,2022-02-10,Female,26.0,Confirmed,Loveland
+73405,75659,2022-02-10,Female,27.0,Probable,Fort Collins
+73406,75660,2022-02-10,Male,28.0,Confirmed,Fort Collins
+73407,75661,2022-02-10,Male,30.0,Confirmed,Fort Collins
+73408,75662,2022-02-10,Female,31.0,Confirmed,Fort Collins
+73409,75663,2022-02-10,Female,33.0,Probable,Timnath
+73410,75664,2022-02-10,Female,34.0,Confirmed,Estes Park
+73411,75665,2022-02-10,Female,35.0,Confirmed,Berthoud
+73412,75666,2022-02-10,Female,36.0,Confirmed,Fort Collins
+73413,75667,2022-02-10,Male,37.0,Probable,Fort Collins
+73414,75668,2022-02-10,Male,37.0,Probable,Fort Collins
+73415,75669,2022-02-10,Unknown,38.0,Probable,Fort Collins
+73416,75670,2022-02-10,Female,39.0,Confirmed,Berthoud
+73417,75671,2022-02-10,Female,40.0,Confirmed,Loveland
+73418,75672,2022-02-10,Unknown,40.0,Probable,Fort Collins
+73419,75673,2022-02-10,Female,41.0,Confirmed,Loveland
+73420,75675,2022-02-10,Female,43.0,Confirmed,Loveland
+73421,75677,2022-02-10,Male,45.0,Confirmed,Loveland
+73422,75678,2022-02-10,Male,49.0,Confirmed,Loveland
+73423,75679,2022-02-10,Female,56.0,Confirmed,Wellington
+73424,75680,2022-02-10,Male,59.0,Confirmed,Loveland
+73425,75681,2022-02-10,Female,61.0,Confirmed,Loveland
+73426,75682,2022-02-10,Female,63.0,Confirmed,Estes Park
+73427,75683,2022-02-10,Male,64.0,Probable,Fort Collins
+73428,75684,2022-02-10,Female,65.0,Confirmed,Loveland
+73429,75685,2022-02-10,Male,68.0,Confirmed,Fort Collins
+73430,75686,2022-02-10,Male,71.0,Confirmed,Fort Collins
+73431,75687,2022-02-10,Female,75.0,Confirmed,Loveland
+73432,75688,2022-02-10,Male,80.0,Confirmed,Loveland
