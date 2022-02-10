@@ -13,6 +13,8 @@
 def a function
 {% endraw %}
 
+{% include_relative vac_figure.html%}
+
 JS autoload static version below
 
 
