@@ -1,4 +1,8 @@
-## Test pages
+---
+# this is an empty front matter
+---
+
+# Test pages
 
 # Big big
 ---
