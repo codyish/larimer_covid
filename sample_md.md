@@ -1,7 +1,7 @@
 ---
 # this is an empty front matter
 ---
-
+{% include /custom/bokeh_custom.html %}
 # Test pages
 
 # Big big
@@ -23,6 +23,10 @@ JS autoload static version below
 iframe below
 
 <iframe src="https://www.datamidden.com/larimer_covid/vac_figure.html" title="vag_figure"></iframe>
+
+components
+
+<div class="bk-root" id="489a7856-8ee6-40c7-bd85-ffac5525525a" data-root-id="16728"></div>
 
 
 _link_
