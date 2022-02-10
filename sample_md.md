@@ -7,7 +7,7 @@
 # Big big
 ---
 
-{% include_relative vac_figure.html %}
+
 
 {% raw %}
 def a function
