@@ -2,23 +2,12 @@
 # this is an empty front matter
 ---
 {% include /custom/bokeh_custom.html %}
-# Test pages
+# Draft figs
 
-# Big big
+# Big figs
 ---
 
 
-
-{% raw %}
-def a function
-{% endraw %}
-
-{% include_relative vac_figure.html%}
-
-JS autoload static version below
-
-
-<script src="larimer_covid/blob/main/fig_embeds/vac.js" id="8999b494-ed6a-4d6e-89c6-6ef73631a8a9"></script>
 
 iframe below
 
@@ -72,7 +61,20 @@ components
 <div class="bk-root" id="489a7856-8ee6-40c7-bd85-ffac5525525a" data-root-id="16728"></div>
 
 
-_link_
+_bookmark_
+
+{% raw %}
+def a function
+{% endraw %}
+
+HTF do I get rid of the doctype tag
+
+{% include_relative vac_figure.html%}
+
+JS autoload static version below (doesn't work)
+
+
+<script src="larimer_covid/blob/main/fig_embeds/vac.js" id="8999b494-ed6a-4d6e-89c6-6ef73631a8a9"></script>
 
 
 
