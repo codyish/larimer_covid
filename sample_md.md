@@ -69,7 +69,7 @@ def a function
 
 HTF do I get rid of the doctype tag
 
-{% include_relative vac_figure.html%}
+{% include_relative vac_mod.html%}
 
 JS autoload static version below (doesn't work)
 
