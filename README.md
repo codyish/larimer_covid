@@ -10,7 +10,7 @@ This is an interactive dashboard of Larimer County covid data including daily an
 With the eventual goal of also determining 
 * the strongest time-lag correlation between case rate and hospitalizations and death.
 * Ratio of cases to hospitalizations and deaths over time.
-
+---
 
 {% include_relative fig_documents/case_mod.html%}
 
