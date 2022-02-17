@@ -1,12 +1,13 @@
 # Larimer Covid data
 
-This will create an interactive dashboard of Larimer County covid data including daily and rolling average
-* Vaccinations
+This is an interactive dashboard of Larimer County covid data including daily and rolling average
 * Cases (Positive tests)
-* Hospitalizations
 * Deaths
+* Hospitalizations
+* Total patient count
+* Vaccinations
 
-With the eventual goal of determining 
+With the eventual goal of also determining 
 * the strongest time-lag correlation between case rate and hospitalizations and death.
 * Ratio of cases to hospitalizations and deaths over time.
 
