@@ -11,8 +11,15 @@ With the eventual goal of determining
 * Ratio of cases to hospitalizations and deaths over time.
 
 
-[Daily Cases](https://codyish.github.io/larimer_covid/case_figure.html)
+{% include_relative fig_documents/case_mod.html%}
 
+{% include_relative fig_documents/death_mod.html%}
+
+{% include_relative fig_documents/hosp_mod.html%}
+
+{% include_relative fig_documents/patient_mod.html%}
+
+{% include_relative fig_documents/vac_mod.html%}
 
 
 
