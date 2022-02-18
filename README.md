@@ -15,13 +15,13 @@ With the eventual goal of also determining
 
 {% include_relative larimer_fig_docs/case_mod.html%}
 
-{% include_relative fig_documents/death_mod.html%}
+{% include_relative larimer_fig_docs/death_mod.html%}
 
-{% include_relative fig_documents/hosp_mod.html%}
+{% include_relative larimer_fig_docs/hosp_mod.html%}
 
-{% include_relative fig_documents/patient_mod.html%}
+{% include_relative larimer_fig_docs/patient_mod.html%}
 
-{% include_relative fig_documents/vac_mod.html%}
+{% include_relative larimer_fig_docs/vac_mod.html%}
 
 
 
