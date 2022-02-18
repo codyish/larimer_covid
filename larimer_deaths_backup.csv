@@ -12,8 +12,8 @@
 10,a0U5w00000edbfQEAQ,2020-04-03,86,Female,Loveland,Confirmed,11
 11,a0U5w00000edbfgEAA,2020-04-05,85,Male,Loveland,Probable,12
 12,a0U5w00000edbfkEAA,2020-04-08,84,Male,Loveland,Probable,13
-13,a0U5w00000edbfbEAA,2020-04-09,59,Male,Drake,Probable,14
-14,a0U5w00000edbfTEAQ,2020-04-09,101,Female,Loveland,Confirmed,15
+13,a0U5w00000edbfTEAQ,2020-04-09,101,Female,Loveland,Confirmed,14
+14,a0U5w00000edbfbEAA,2020-04-09,59,Male,Drake,Probable,15
 15,a0U5w00000edbfcEAA,2020-04-14,92,Female,Loveland,Probable,16
 16,a0U5w00000edbfUEAQ,2020-04-14,80,Male,Loveland,Confirmed,17
 17,a0U5w00000edbfPEAQ,2020-04-15,89,Female,Loveland,Confirmed,18
@@ -39,8 +39,8 @@
 37,a0U5w00000f1CqeEAE,2020-08-21,76,Male,Fort Collins,Confirmed,38
 38,a0U5w00000f1CqfEAE,2020-08-22,84,Male,Fort Collins,Confirmed,39
 39,a0U5w00000f1CqgEAE,2020-08-25,73,Female,Fort Collins,Confirmed,40
-40,a0U5w00000f1CqiEAE,2020-08-27,73,Female,Fort Collins,Confirmed,41
-41,a0U5w00000f1CqhEAE,2020-08-27,93,Female,Fort Collins,Confirmed,42
+40,a0U5w00000f1CqhEAE,2020-08-27,93,Female,Fort Collins,Confirmed,41
+41,a0U5w00000f1CqiEAE,2020-08-27,73,Female,Fort Collins,Confirmed,42
 42,a0U5w00000f1CwhEAE,2020-08-30,70,Male,Fort Collins,Confirmed,43
 43,a0U5w00000f1G1KEAU,2020-09-01,87,Female,Fort Collins,Confirmed,44
 44,a0U5w00000f1KyOEAU,2020-09-05,80,Male,Fort Collins,Confirmed,45
@@ -65,15 +65,15 @@
 63,a0U5w00000f1UNAEA2,2020-11-16,84,Male,Fort Collins,Confirmed,64
 64,a0U5w00000f1VA4EAM,2020-11-17,81,Male,Loveland,Confirmed,65
 65,a0U5w00000f1VA7EAM,2020-11-17,95,Female,Estes Park,Confirmed,66
-66,a0U5w00000f1VA8EAM,2020-11-19,97,Female,Loveland,Confirmed,67
-67,a0U5w00000f1UNBEA2,2020-11-19,91,Male,Livermore,Confirmed,68
+66,a0U5w00000f1UNBEA2,2020-11-19,91,Male,Livermore,Confirmed,67
+67,a0U5w00000f1VA8EAM,2020-11-19,97,Female,Loveland,Confirmed,68
 68,a0U5w00000f1UzkEAE,2020-11-20,97,Female,Fort Collins,Confirmed,69
 69,a0U5w00000f1UrREAU,2020-11-21,81,Male,Fort Collins,Confirmed,70
 70,a0U5w00000gSykHEAS,2020-11-21,78,Female,Loveland,Confirmed,71
 71,a0U5w00000f1VJtEAM,2020-11-22,93,Female,Estes Park,Confirmed,72
-72,a0U5w00000f1VA5EAM,2020-11-23,73,Male,Johnstown,Confirmed,73
+72,a0U5w00000f1UzlEAE,2020-11-23,74,Female,Wellington,Confirmed,73
 73,a0U5w00000f1WHcEAM,2020-11-23,91,Male,Wellington,Confirmed,74
-74,a0U5w00000f1UzlEAE,2020-11-23,74,Female,Wellington,Confirmed,75
+74,a0U5w00000f1VA5EAM,2020-11-23,73,Male,Johnstown,Confirmed,75
 75,a0U5w00000f1W0WEAU,2020-11-24,103,Female,Berthoud,Confirmed,76
 76,a0U5w00000f1VZ8EAM,2020-11-25,79,Female,Loveland,Confirmed,77
 77,a0U5w00000f1VraEAE,2020-11-26,78,Male,Fort Collins,Confirmed,78
@@ -83,93 +83,93 @@
 81,a0U5w00000f1WfiEAE,2020-12-02,93,Female,Fort Collins,Confirmed,82
 82,a0U5w00000f1W3yEAE,2020-12-03,94,Female,Loveland,Confirmed,83
 83,a0U5w00000f1W0VEAU,2020-12-03,88,Female,Loveland,Confirmed,84
-84,a0U5w00000f1XtuEAE,2020-12-04,76,Female,Berthoud,Confirmed,85
-85,a0U5w00000f1WEpEAM,2020-12-04,88,Female,Loveland,Confirmed,86
+84,a0U5w00000f1WEpEAM,2020-12-04,88,Female,Loveland,Confirmed,85
+85,a0U5w00000f1XtuEAE,2020-12-04,76,Female,Berthoud,Confirmed,86
 86,a0U5w00000f1W40EAE,2020-12-05,72,Female,Wellington,Confirmed,87
 87,a0U5w00000f1WEqEAM,2020-12-05,89,Female,Fort Collins,Confirmed,88
-88,a0U5w00000f1WZkEAM,2020-12-06,68,Male,Fort Collins,Probable,89
-89,a0U5w00000f1W41EAE,2020-12-06,83,Male,Loveland,Confirmed,90
-90,a0U5w00000f1WZjEAM,2020-12-06,97,Female,Fort Collins,Confirmed,91
+88,a0U5w00000f1W41EAE,2020-12-06,83,Male,Loveland,Confirmed,89
+89,a0U5w00000f1WZjEAM,2020-12-06,97,Female,Fort Collins,Confirmed,90
+90,a0U5w00000f1WZkEAM,2020-12-06,68,Male,Fort Collins,Probable,91
 91,a0U5w00000f1WfhEAE,2020-12-07,82,Female,Windsor,Confirmed,92
-92,a0U5w00000f1WHdEAM,2020-12-08,89,Male,Loveland,Confirmed,93
-93,a0U5w00000f1WHfEAM,2020-12-08,85,Male,Loveland,Confirmed,94
+92,a0U5w00000f1WHfEAM,2020-12-08,85,Male,Loveland,Confirmed,93
+93,a0U5w00000f1WHdEAM,2020-12-08,89,Male,Loveland,Confirmed,94
 94,a0U5w00000f1WHeEAM,2020-12-08,97,Male,Fort Collins,Confirmed,95
-95,a0U5w00000f1Zl3EAE,2020-12-08,83,Female,Loveland,Probable,96
-96,a0U5w00000f1XgrEAE,2020-12-08,86,Male,Loveland,Confirmed,97
-97,a0U5w00000f1WErEAM,2020-12-09,87,Male,Fort Collins,Confirmed,98
+95,a0U5w00000f1XgrEAE,2020-12-08,86,Male,Loveland,Confirmed,96
+96,a0U5w00000f1Zl3EAE,2020-12-08,83,Female,Loveland,Probable,97
+97,a0U5w00000f1WTWEA2,2020-12-09,94,Female,Fort Collins,Confirmed,98
 98,a0U5w00000f1WZlEAM,2020-12-09,92,Male,Loveland,Probable,99
-99,a0U5w00000f1WTWEA2,2020-12-09,94,Female,Fort Collins,Confirmed,100
-100,a0U5w00000f1WTYEA2,2020-12-10,86,Male,Ft. Collins,Confirmed,101
+99,a0U5w00000f1WErEAM,2020-12-09,87,Male,Fort Collins,Confirmed,100
+100,a0U5w00000f1WTXEA2,2020-12-10,88,Female,Loveland,Confirmed,101
 101,a0U5w00000f1WfkEAE,2020-12-10,94,Male,Fort Collins,Confirmed,102
-102,a0U5w00000f1WTXEA2,2020-12-10,88,Female,Loveland,Confirmed,103
-103,a0U5w00000f1WfjEAE,2020-12-11,96,Female,Fort Collins,Confirmed,104
-104,a0U5w00000f1X1QEAU,2020-12-11,88,Male,Fort Collins,Confirmed,105
+102,a0U5w00000f1WTYEA2,2020-12-10,86,Male,Ft. Collins,Confirmed,103
+103,a0U5w00000f1X1QEAU,2020-12-11,88,Male,Fort Collins,Confirmed,104
+104,a0U5w00000f1WfjEAE,2020-12-11,96,Female,Fort Collins,Confirmed,105
 105,a0U5w00000f1WflEAE,2020-12-11,82,Male,Loveland,Confirmed,106
-106,a0U5w00000f1WhaEAE,2020-12-13,77,Male,Windsor,Confirmed,107
-107,a0U5w00000f1WhgEAE,2020-12-13,88,Male,Loveland,Confirmed,108
-108,a0U5w00000f1Wo3EAE,2020-12-13,97,Female,Ft. Collins,Confirmed,109
+106,a0U5w00000f1Wo3EAE,2020-12-13,97,Female,Ft. Collins,Confirmed,107
+107,a0U5w00000f1WhaEAE,2020-12-13,77,Male,Windsor,Confirmed,108
+108,a0U5w00000f1WhgEAE,2020-12-13,88,Male,Loveland,Confirmed,109
 109,a0U5w00000f1WhfEAE,2020-12-13,84,Female,Ft. Collins,Confirmed,110
 110,a0U5w00000f1X1PEAU,2020-12-14,68,Female,Loveland,Confirmed,111
 111,a0U5w00000f1XixEAE,2020-12-14,75,Female,Loveland,Confirmed,112
 112,a0U5w00000f1X7PEAU,2020-12-15,90,Female,Loveland,Confirmed,113
-113,a0U5w00000f1Wr1EAE,2020-12-16,78,Female,Lyons,Confirmed,114
+113,a0U5w00000f1X7NEAU,2020-12-16,78,Female,Loveland,Confirmed,114
 114,a0U5w00000f1X4iEAE,2020-12-16,82,Female,Fort Collins,Confirmed,115
-115,a0U5w00000f1X7NEAU,2020-12-16,78,Female,Loveland,Confirmed,116
-116,a0U5w00000f1XHDEA2,2020-12-17,93,Male,Loveland,Confirmed,117
-117,a0U5w00000f1XZBEA2,2020-12-17,90,Female,Loveland,Confirmed,118
-118,a0U5w00000f1Wr2EAE,2020-12-17,79,Female,Loveland,Confirmed,119
-119,a0U5w00000f1Wo2EAE,2020-12-17,71,Male,Fort Collins,Confirmed,120
+115,a0U5w00000f1Wr1EAE,2020-12-16,78,Female,Lyons,Confirmed,116
+116,a0U5w00000f1Wo2EAE,2020-12-17,71,Male,Fort Collins,Confirmed,117
+117,a0U5w00000f1Wr2EAE,2020-12-17,79,Female,Loveland,Confirmed,118
+118,a0U5w00000f1XHDEA2,2020-12-17,93,Male,Loveland,Confirmed,119
+119,a0U5w00000f1XZBEA2,2020-12-17,90,Female,Loveland,Confirmed,120
 120,a0U5w00000f1WziEAE,2020-12-17,89,Male,Fort Collins,Confirmed,121
 121,a0U5w00000f1X4jEAE,2020-12-17,73,Female,Ft. Collins,Confirmed,122
 122,a0U5w00000f1XDcEAM,2020-12-19,87,Female,Loveland,Confirmed,123
 123,a0U5w00000f1X7OEAU,2020-12-19,81,Male,Fort Collins,Probable,124
 124,a0U5w00000f1b3gEAA,2020-12-19,97,Female,Loveland,Confirmed,125
 125,a0U5w00000f1XToEAM,2020-12-20,85,Male,Loveland,Confirmed,126
-126,a0U5w00000f1XDdEAM,2020-12-20,86,Male,Loveland,Confirmed,127
+126,a0U5w00000f1XHJEA2,2020-12-20,70,Female,Fort Collins,Confirmed,127
 127,a0U5w00000f1XDbEAM,2020-12-20,94,Female,Berthoud,Confirmed,128
-128,a0U5w00000f1XHJEA2,2020-12-20,70,Female,Fort Collins,Confirmed,129
-129,a0U5w00000f1XHIEA2,2020-12-21,81,Female,Loveland,Confirmed,130
-130,a0U5w00000f1X7QEAU,2020-12-21,99,Male,Fort Collins,Confirmed,131
+128,a0U5w00000f1XDdEAM,2020-12-20,86,Male,Loveland,Confirmed,129
+129,a0U5w00000f1X7QEAU,2020-12-21,99,Male,Fort Collins,Confirmed,130
+130,a0U5w00000f1XHIEA2,2020-12-21,81,Female,Loveland,Confirmed,131
 131,a0U5w00000f1XZAEA2,2020-12-22,93,Female,Loveland,Confirmed,132
 132,a0U5w00000f1Y0LEAU,2020-12-23,88,Male,Loveland,Confirmed,133
-133,a0U5w00000f1XZIEA2,2020-12-24,77,Male,Loveland,Confirmed,134
-134,a0U5w00000f1XcDEAU,2020-12-24,91,Female,Loveland,Confirmed,135
+133,a0U5w00000f1XcDEAU,2020-12-24,91,Female,Loveland,Confirmed,134
+134,a0U5w00000f1XZIEA2,2020-12-24,77,Male,Loveland,Confirmed,135
 135,a0U5w00000f1XTsEAM,2020-12-24,75,Male,Fort Collins,Probable,136
-136,a0U5w00000f1YFqEAM,2020-12-26,65,Female,Loveland,Confirmed,137
+136,a0U5w00000f1XevEAE,2020-12-26,78,Female,Fort Collins,Confirmed,137
 137,a0U5w00000f1XcFEAU,2020-12-26,86,Female,Loveland,Confirmed,138
-138,a0U5w00000f1XevEAE,2020-12-26,78,Female,Fort Collins,Confirmed,139
-139,a0U5w00000f1XcEEAU,2020-12-27,76,Male,Loveland,Confirmed,140
-140,a0U5w00000f1XcCEAU,2020-12-27,76,Female,Fort Collins,Confirmed,141
-141,a0U5w00000f1Xf2EAE,2020-12-27,88,Male,Fort Collins,Confirmed,142
-142,a0U5w00000f1XL0EAM,2020-12-27,80,Male,Fort Collins,Confirmed,143
-143,a0U5w00000f1XKvEAM,2020-12-27,47,Female,Fort Collins,Confirmed,144
-144,a0U5w00000f1XTnEAM,2020-12-27,65,Female,Fort Collins,Confirmed,145
+138,a0U5w00000f1YFqEAM,2020-12-26,65,Female,Loveland,Confirmed,139
+139,a0U5w00000f1Xf2EAE,2020-12-27,88,Male,Fort Collins,Confirmed,140
+140,a0U5w00000f1XKvEAM,2020-12-27,47,Female,Fort Collins,Confirmed,141
+141,a0U5w00000f1XTnEAM,2020-12-27,65,Female,Fort Collins,Confirmed,142
+142,a0U5w00000f1aa8EAA,2020-12-27,89,Male,Fort Collins,Probable,143
+143,a0U5w00000f1XcCEAU,2020-12-27,76,Female,Fort Collins,Confirmed,144
+144,a0U5w00000f1XcEEAU,2020-12-27,76,Male,Loveland,Confirmed,145
 145,a0U5w00000f1XgsEAE,2020-12-27,80,Female,Ft. Collins,Confirmed,146
-146,a0U5w00000f1aa8EAA,2020-12-27,89,Male,Fort Collins,Probable,147
+146,a0U5w00000f1XL0EAM,2020-12-27,80,Male,Fort Collins,Confirmed,147
 147,a0U5w00000f1Xf1EAE,2020-12-28,65,Female,Fort Collins,Confirmed,148
-148,a0U5w00000f1XZDEA2,2020-12-28,69,Female,Wellington,Confirmed,149
+148,a0U5w00000f1XZ9EAM,2020-12-28,97,Female,Fort Collins,Confirmed,149
 149,a0U5w00000f1XewEAE,2020-12-28,97,Female,Loveland,Confirmed,150
-150,a0U5w00000f1XZ9EAM,2020-12-28,97,Female,Fort Collins,Confirmed,151
+150,a0U5w00000f1XZDEA2,2020-12-28,69,Female,Wellington,Confirmed,151
 151,a0U5w00000f1Xf0EAE,2020-12-29,96,Male,Fort Collins,Confirmed,152
-152,a0U5w00000f1XZCEA2,2020-12-30,58,Female,Fort Collins,Confirmed,153
+152,a0U5w00000f1XfAEAU,2020-12-30,79,Female,Fort Collins,Confirmed,153
 153,a0U5w00000f1XxDEAU,2020-12-30,85,Male,Fort Collins,Confirmed,154
-154,a0U5w00000f1XfAEAU,2020-12-30,79,Female,Fort Collins,Confirmed,155
-155,a0U5w00000f1aAWEAY,2020-12-31,74,Male,Fort Collins,Confirmed,156
-156,a0U5w00000f1Xj2EAE,2020-12-31,76,Female,Fort Collins,Confirmed,157
-157,a0U5w00000f1Y0NEAU,2021-01-01,81,Female,Fort Collins,Confirmed,158
-158,a0U5w00000f1XxEEAU,2021-01-01,100,Female,Loveland,Confirmed,159
-159,a0U5w00000f1Y0IEAU,2021-01-02,75,Female,Loveland,Confirmed,160
-160,a0U5w00000f1Xx8EAE,2021-01-02,99,Male,Fort Collins,Confirmed,161
+154,a0U5w00000f1XZCEA2,2020-12-30,58,Female,Fort Collins,Confirmed,155
+155,a0U5w00000f1Xj2EAE,2020-12-31,76,Female,Fort Collins,Confirmed,156
+156,a0U5w00000f1aAWEAY,2020-12-31,74,Male,Fort Collins,Confirmed,157
+157,a0U5w00000f1XxEEAU,2021-01-01,100,Female,Loveland,Confirmed,158
+158,a0U5w00000f1Y0NEAU,2021-01-01,81,Female,Fort Collins,Confirmed,159
+159,a0U5w00000f1Xx8EAE,2021-01-02,99,Male,Fort Collins,Confirmed,160
+160,a0U5w00000f1Y0IEAU,2021-01-02,75,Female,Loveland,Confirmed,161
 161,a0U5w00000f1Y0KEAU,2021-01-02,94,Female,Fort Collins,Confirmed,162
-162,a0U5w00000f1Xj3EAE,2021-01-03,74,Female,Loveland,Confirmed,163
-163,a0U5w00000f1Y0HEAU,2021-01-03,95,Female,Ft. Collins,Confirmed,164
+162,a0U5w00000f1Y0HEAU,2021-01-03,95,Female,Ft. Collins,Confirmed,163
+163,a0U5w00000f1Xj3EAE,2021-01-03,74,Female,Loveland,Confirmed,164
 164,a0U5w00000f1Y4yEAE,2021-01-04,90,Male,Loveland,Confirmed,165
-165,a0U5w00000f1Yb1EAE,2021-01-05,105,Female,Ft. Collins,Confirmed,166
+165,a0U5w00000f1Y0JEAU,2021-01-05,61,Male,Loveland,Confirmed,166
 166,a0U5w00000f1Y4xEAE,2021-01-05,82,Female,Berthoud,Confirmed,167
-167,a0U5w00000f1YFbEAM,2021-01-05,86,Male,Loveland,Confirmed,168
-168,a0U5w00000f1Y0JEAU,2021-01-05,61,Male,Loveland,Confirmed,169
-169,a0U5w00000f1YGeEAM,2021-01-05,95,Male,Fort Collins,Confirmed,170
-170,a0U5w00000f1Y0MEAU,2021-01-05,71,Female,Loveland,Confirmed,171
+167,a0U5w00000f1YGeEAM,2021-01-05,95,Male,Fort Collins,Confirmed,168
+168,a0U5w00000f1Y0MEAU,2021-01-05,71,Female,Loveland,Confirmed,169
+169,a0U5w00000f1YFbEAM,2021-01-05,86,Male,Loveland,Confirmed,170
+170,a0U5w00000f1Yb1EAE,2021-01-05,105,Female,Ft. Collins,Confirmed,171
 171,a0U5w00000f1YGjEAM,2021-01-06,87,Male,Loveland,Confirmed,172
 172,a0U5w00000f1Yb2EAE,2021-01-06,63,Male,Berthoud,Confirmed,173
 173,a0U5w00000f1Yb3EAE,2021-01-07,85,Male,Fort Collins,Confirmed,174
@@ -178,14 +178,14 @@
 176,a0U5w00000f1ZrAEAU,2021-01-09,58,Female,Wellington,Confirmed,177
 177,a0U5w00000f1YLQEA2,2021-01-10,88,Male,Loveland,Confirmed,178
 178,a0U5w00000f1ZhtEAE,2021-01-11,86,Female,Loveland,Confirmed,179
-179,a0U5w00000f1aa2EAA,2021-01-12,87,Female,Loveland,Confirmed,180
-180,a0U5w00000f1bIXEAY,2021-01-12,85,Male,Loveland,Confirmed,181
-181,a0U5w00000f1aFEEAY,2021-01-12,83,Male,Loveland,Confirmed,182
-182,a0U5w00000f1ZxhEAE,2021-01-12,93,Female,Fort Collins,Confirmed,183
-183,a0U5w00000f1ZhyEAE,2021-01-13,82,Female,Fort Collins,Probable,184
-184,a0U5w00000f1Z6xEAE,2021-01-13,70,Male,Fort Collins,Confirmed,185
-185,a0U5w00000f1ZrBEAU,2021-01-16,65,Male,Berthoud,Confirmed,186
-186,a0U5w00000f1b1eEAA,2021-01-16,68,Female,Loveland,Confirmed,187
+179,a0U5w00000f1ZxhEAE,2021-01-12,93,Female,Fort Collins,Confirmed,180
+180,a0U5w00000f1aFEEAY,2021-01-12,83,Male,Loveland,Confirmed,181
+181,a0U5w00000f1bIXEAY,2021-01-12,85,Male,Loveland,Confirmed,182
+182,a0U5w00000f1aa2EAA,2021-01-12,87,Female,Loveland,Confirmed,183
+183,a0U5w00000f1Z6xEAE,2021-01-13,70,Male,Fort Collins,Confirmed,184
+184,a0U5w00000f1ZhyEAE,2021-01-13,82,Female,Fort Collins,Probable,185
+185,a0U5w00000f1b1eEAA,2021-01-16,68,Female,Loveland,Confirmed,186
+186,a0U5w00000f1ZrBEAU,2021-01-16,65,Male,Berthoud,Confirmed,187
 187,a0U5w00000f1Zl2EAE,2021-01-17,80,Male,Loveland,Confirmed,188
 188,a0U5w00000f1ZrFEAU,2021-01-18,82,Female,Fort Collins,Confirmed,189
 189,a0U5w00000f1ZxgEAE,2021-01-19,88,Female,Loveland,Confirmed,190
@@ -194,26 +194,26 @@
 192,a0U5w00000f1ahGEAQ,2021-01-22,83,Female,Fort Collins,Confirmed,193
 193,a0U5w00000f1aFLEAY,2021-01-22,74,Male,Fort Collins,Confirmed,194
 194,a0U5w00000f1aa7EAA,2021-01-25,91,Female,Fort Collins,Confirmed,195
-195,a0U5w00000f1b1fEAA,2021-01-26,101,Male,Fort Collins,Confirmed,196
-196,a0U5w00000f1d5qEAA,2021-01-26,86,Female,Fort Collins,Confirmed,197
-197,a0U5w00000f1b3fEAA,2021-01-26,87,Male,Fort Collins,Confirmed,198
+195,a0U5w00000f1d5qEAA,2021-01-26,86,Female,Fort Collins,Confirmed,196
+196,a0U5w00000f1b3fEAA,2021-01-26,87,Male,Fort Collins,Confirmed,197
+197,a0U5w00000f1b1fEAA,2021-01-26,101,Male,Fort Collins,Confirmed,198
 198,a0U5w00000f1ahIEAQ,2021-01-27,85,Female,Fort Collins,Confirmed,199
 199,a0U5w00000f1ahFEAQ,2021-01-27,78,Male,Fort Collins,Confirmed,200
-200,a0U5w00000f1ahHEAQ,2021-01-28,82,Female,Fort Collins,Confirmed,201
-201,a0U5w00000f1bOMEAY,2021-01-28,87,Female,Fort Collins,Probable,202
+200,a0U5w00000f1bOMEAY,2021-01-28,87,Female,Fort Collins,Probable,201
+201,a0U5w00000f1ahHEAQ,2021-01-28,82,Female,Fort Collins,Confirmed,202
 202,a0U5w00000f1bOLEAY,2021-01-30,69,Male,Fort Collins,Confirmed,203
 203,a0U5w00000f1b7hEAA,2021-01-30,60,Male,Fort Collins,Confirmed,204
 204,a0U5w00000f1bFJEAY,2021-01-30,76,Male,Fort Collins,Confirmed,205
-205,a0U5w00000f1bIcEAI,2021-01-31,73,Male,Fort Collins,Confirmed,206
-206,a0U5w00000f1b7iEAA,2021-01-31,81,Male,Fort Collins,Confirmed,207
-207,a0U5w00000f1bcvEAA,2021-02-03,67,Male,Fort Collins,Confirmed,208
-208,a0U5w00000f1cfoEAA,2021-02-03,99,Female,Fort Collins,Confirmed,209
-209,a0U5w00000f1bONEAY,2021-02-03,76,Male,Fort Collins,Confirmed,210
-210,a0U5w00000f1bcyEAA,2021-02-03,88,Male,Fort Collins,Confirmed,211
-211,a0U5w00000f1c7OEAQ,2021-02-04,78,Male,Loveland,Confirmed,212
-212,a0U5w00000f1bcxEAA,2021-02-04,93,Female,Fort Collins,Confirmed,213
-213,a0U5w00000f1c7UEAQ,2021-02-05,79,Female,Fort Collins,Confirmed,214
-214,a0U5w00000f1c7TEAQ,2021-02-05,90,Female,Fort Collins,Confirmed,215
+205,a0U5w00000f1b7iEAA,2021-01-31,81,Male,Fort Collins,Confirmed,206
+206,a0U5w00000f1bIcEAI,2021-01-31,73,Male,Fort Collins,Confirmed,207
+207,a0U5w00000f1cfoEAA,2021-02-03,99,Female,Fort Collins,Confirmed,208
+208,a0U5w00000f1bcyEAA,2021-02-03,88,Male,Fort Collins,Confirmed,209
+209,a0U5w00000f1bcvEAA,2021-02-03,67,Male,Fort Collins,Confirmed,210
+210,a0U5w00000f1bONEAY,2021-02-03,76,Male,Fort Collins,Confirmed,211
+211,a0U5w00000f1bcxEAA,2021-02-04,93,Female,Fort Collins,Confirmed,212
+212,a0U5w00000f1c7OEAQ,2021-02-04,78,Male,Loveland,Confirmed,213
+213,a0U5w00000f1c7TEAQ,2021-02-05,90,Female,Fort Collins,Confirmed,214
+214,a0U5w00000f1c7UEAQ,2021-02-05,79,Female,Fort Collins,Confirmed,215
 215,a0U5w00000f1bcwEAA,2021-02-05,91,Male,Fort Collins,Confirmed,216
 216,a0U5w00000f1cASEAY,2021-02-09,84,Female,Fort Collins,Confirmed,217
 217,a0U5w00000f1c7PEAQ,2021-02-09,95,Female,Fort Collins,Confirmed,218
@@ -232,24 +232,24 @@
 230,a0U5w00000f1ekoEAA,2021-03-08,87,Female,Fort Collins,Confirmed,231
 231,a0U5w00000foqzqEAA,2021-03-16,86,Male,Fort Collins,Confirmed,232
 232,a0U5w00000f1gh6EAA,2021-03-22,90,Female,Fort Collins,Confirmed,233
-233,a0U5w00000gS6CaEAK,2021-03-24,49,Male,Fort Collins,Confirmed,234
-234,a0U5w00000gRksBEAS,2021-03-24,62,Female,Wellington,Confirmed,235
+233,a0U5w00000gRksBEAS,2021-03-24,62,Female,Wellington,Confirmed,234
+234,a0U5w00000gS6CaEAK,2021-03-24,49,Male,Fort Collins,Confirmed,235
 235,a0U5w00000gRg00EAC,2021-03-30,75,Female,Fort Collins,Confirmed,236
 236,a0U5w00000gV8UkEAK,2021-04-14,82,Female,Longmont,Confirmed,237
 237,a0U5w00000gUZKREA4,2021-04-18,54,Male,Loveland,Confirmed,238
 238,a0U5w00000gTtUkEAK,2021-04-27,64,Male,Fort Collins,Confirmed,239
 239,a0U5w00000gUwumEAC,2021-05-02,66,Female,Loveland,Confirmed,240
 240,a0U5w00000gUwunEAC,2021-05-02,53,Female,Loveland,Confirmed,241
-241,a0U5w00000gzHxnEAE,2021-05-03,64,Male,Fort Collins,Confirmed,242
-242,a0U5w00000gV0AUEA0,2021-05-03,87,Female,Fort Collins,Probable,243
+241,a0U5w00000gV0AUEA0,2021-05-03,87,Female,Fort Collins,Probable,242
+242,a0U5w00000gzHxnEAE,2021-05-03,64,Male,Fort Collins,Confirmed,243
 243,a0U5w00000gUeALEA0,2021-05-04,56,Female,Fort Collins,Probable,244
 244,a0U5w00000gUZKQEA4,2021-05-06,70,Female,Fort Collins,Confirmed,245
 245,a0U5w00000gV4b4EAC,2021-05-08,62,Male,Loveland,Confirmed,246
 246,a0U5w00000gUtHHEA0,2021-05-10,80,Male,Fort Collins,Confirmed,247
 247,a0U5w00000gzE1XEAU,2021-05-14,92,Female,Loveland,Confirmed,248
-248,a0U5w00000gyhwAEAQ,2021-05-15,55,Female,Wellington,Confirmed,249
-249,a0U5w00000h04kQEAQ,2021-05-15,70,Female,Fort Collins,Confirmed,250
-250,a0U5w00000gyhw9EAA,2021-05-15,75,Male,Fort Collins,Confirmed,251
+248,a0U5w00000h04kQEAQ,2021-05-15,70,Female,Fort Collins,Confirmed,249
+249,a0U5w00000gyhw9EAA,2021-05-15,75,Male,Fort Collins,Confirmed,250
+250,a0U5w00000gyhwAEAQ,2021-05-15,55,Female,Wellington,Confirmed,251
 251,a0U5w00000foqzrEAA,2021-05-18,89,Male,Berthoud,Confirmed,252
 252,a0U5w00000h8GkjEAE,2021-05-26,52,Male,Loveland,Confirmed,253
 253,a0U5w00000h8WytEAE,2021-06-07,82,Female,Fort Collins,Confirmed,254
@@ -261,11 +261,11 @@
 259,a0U5w00000foMRUEA2,2021-08-11,62,Male,Red Feather Lakes,Confirmed,260
 260,a0U5w00000foNmiEAE,2021-08-13,79,Female,Loveland,Confirmed,261
 261,a0U5w00000foNCuEAM,2021-08-17,52,Male,Estes Park,Confirmed,262
-262,a0U5w00000foOLHEA2,2021-08-20,82,Male,Loveland,Confirmed,263
-263,a0U5w00000foOLFEA2,2021-08-20,81,Female,Fort Collins,Confirmed,264
+262,a0U5w00000foOLFEA2,2021-08-20,81,Female,Fort Collins,Confirmed,263
+263,a0U5w00000foOLHEA2,2021-08-20,82,Male,Loveland,Confirmed,264
 264,a0U5w00000foO7nEAE,2021-08-21,74,Female,Loveland,Probable,265
-265,a0U5w00000foOLGEA2,2021-08-22,95,Male,Fort Collins,Confirmed,266
-266,a0U5w00000foO7mEAE,2021-08-22,86,Male,Berthoud,Confirmed,267
+265,a0U5w00000foO7mEAE,2021-08-22,86,Male,Berthoud,Confirmed,266
+266,a0U5w00000foOLGEA2,2021-08-22,95,Male,Fort Collins,Confirmed,267
 267,a0U5w00000foO7lEAE,2021-08-23,102,Female,Fort Collins,Confirmed,268
 268,a0U5w00000foOsxEAE,2021-08-27,87,Female,Fort Collins,Confirmed,269
 269,a0U5w00000foOTxEAM,2021-08-28,86,Female,Fort Collins,Confirmed,270
@@ -277,13 +277,13 @@
 275,a0U5w00000foRI9EAM,2021-09-03,71,Female,Fort Collins,Confirmed,276
 276,a0U5w00000foPrCEAU,2021-09-05,83,Male,Fort Collins,Confirmed,277
 277,a0U5w00000foQqeEAE,2021-09-06,85,Female,Loveland,Confirmed,278
-278,a0U5w00000foQGlEAM,2021-09-08,72,Male,Fort Collins,Confirmed,279
-279,a0U5w00000foRpBEAU,2021-09-08,88,Male,Loveland,Probable,280
+278,a0U5w00000foRpBEAU,2021-09-08,88,Male,Loveland,Probable,279
+279,a0U5w00000foQGlEAM,2021-09-08,72,Male,Fort Collins,Confirmed,280
 280,a0U5w00000foRp1EAE,2021-09-09,84,Female,Loveland,Confirmed,281
-281,a0U5w00000foRZxEAM,2021-09-11,69,Male,Drake,Confirmed,282
-282,a0U5w00000foQqfEAE,2021-09-11,55,Female,Loveland,Confirmed,283
-283,a0U5w00000foRZwEAM,2021-09-14,77,Female,Fort Collins,Confirmed,284
-284,a0U5w00000foRIAEA2,2021-09-14,87,Female,Fort Collins,Confirmed,285
+281,a0U5w00000foQqfEAE,2021-09-11,55,Female,Loveland,Confirmed,282
+282,a0U5w00000foRZxEAM,2021-09-11,69,Male,Drake,Confirmed,283
+283,a0U5w00000foRIAEA2,2021-09-14,87,Female,Fort Collins,Confirmed,284
+284,a0U5w00000foRZwEAM,2021-09-14,77,Female,Fort Collins,Confirmed,285
 285,a0U5w00000foRp6EAE,2021-09-15,67,Male,Fort Collins,Confirmed,286
 286,a0U5w00000foU1rEAE,2021-09-17,55,Male,Loveland,Confirmed,287
 287,a0U5w00000foSAYEA2,2021-09-18,82,Female,Fort Collins,Confirmed,288
@@ -298,20 +298,20 @@
 296,a0U5w00000foXY4EAM,2021-10-03,37,Male,Loveland,Confirmed,297
 297,a0U5w00000foXrzEAE,2021-10-04,75,Female,Fort Collins,Confirmed,298
 298,a0U5w00000foZBSEA2,2021-10-04,83,Male,Loveland,Confirmed,299
-299,a0U5w00000foaBbEAI,2021-10-05,74,Male,Loveland,Confirmed,300
-300,a0U5w00000foZfmEAE,2021-10-05,85,Female,Fort Collins,Confirmed,301
+299,a0U5w00000foZfmEAE,2021-10-05,85,Female,Fort Collins,Confirmed,300
+300,a0U5w00000foaBbEAI,2021-10-05,74,Male,Loveland,Confirmed,301
 301,a0U5w00000foaBdEAI,2021-10-07,69,Female,Loveland,Confirmed,302
 302,a0U5w00000foZRGEA2,2021-10-08,76,Male,Loveland,Confirmed,303
-303,a0U5w00000foZRHEA2,2021-10-09,71,Female,Fort Collins,Confirmed,304
-304,a0U5w00000foaBeEAI,2021-10-09,81,Female,Fort Collins,Confirmed,305
+303,a0U5w00000foaBeEAI,2021-10-09,81,Female,Fort Collins,Confirmed,304
+304,a0U5w00000foZRHEA2,2021-10-09,71,Female,Fort Collins,Confirmed,305
 305,a0U5w00000focMiEAI,2021-10-11,78,Female,Loveland,Confirmed,306
-306,a0U5w00000foaBfEAI,2021-10-12,80,Female,Fort Collins,Confirmed,307
-307,a0U5w00000fobTqEAI,2021-10-12,79,Female,Loveland,Confirmed,308
+306,a0U5w00000fobTqEAI,2021-10-12,79,Female,Loveland,Confirmed,307
+307,a0U5w00000foaBfEAI,2021-10-12,80,Female,Fort Collins,Confirmed,308
 308,a0U5w00000fobTpEAI,2021-10-13,80,Male,Loveland,Confirmed,309
-309,a0U5w00000foaBcEAI,2021-10-14,43,Female,Fort Collins,Confirmed,310
-310,a0U5w00000foc2TEAQ,2021-10-14,81,Female,Fort Collins,Probable,311
-311,a0U5w00000foc2QEAQ,2021-10-15,39,Female,Laporte,Confirmed,312
-312,a0U5w00000foeEXEAY,2021-10-15,63,Female,Fort Collins,Probable,313
+309,a0U5w00000foc2TEAQ,2021-10-14,81,Female,Fort Collins,Probable,310
+310,a0U5w00000foaBcEAI,2021-10-14,43,Female,Fort Collins,Confirmed,311
+311,a0U5w00000foeEXEAY,2021-10-15,63,Female,Fort Collins,Probable,312
+312,a0U5w00000foc2QEAQ,2021-10-15,39,Female,Laporte,Confirmed,313
 313,a0U5w00000foc2REAQ,2021-10-16,73,Female,Fort Collins,Confirmed,314
 314,a0U5w00000foeESEAY,2021-10-18,74,Female,Fort Collins,Confirmed,315
 315,a0U5w00000foc2SEAQ,2021-10-19,66,Male,Wellington,Confirmed,316
@@ -320,95 +320,95 @@
 318,a0U5w00000foh74EAA,2021-10-24,95,Male,Loveland,Confirmed,319
 319,a0U5w00000foh73EAA,2021-10-25,92,Female,Loveland,Confirmed,320
 320,a0U5w00000foeuiEAA,2021-10-26,65,Male,Loveland,Confirmed,321
-321,a0U5w00000fomLEEAY,2021-10-26,50,Female,Loveland,Probable,322
-322,a0U5w00000foeunEAA,2021-10-26,65,Male,Fort Collins,Confirmed,323
+321,a0U5w00000foeunEAA,2021-10-26,65,Male,Fort Collins,Confirmed,322
+322,a0U5w00000foedaEAA,2021-10-26,74,Female,Fort Collins,Confirmed,323
 323,a0U5w00000foh75EAA,2021-10-26,54,Female,Fort Collins,Confirmed,324
-324,a0U5w00000foedaEAA,2021-10-26,74,Female,Fort Collins,Confirmed,325
+324,a0U5w00000fomLEEAY,2021-10-26,50,Female,Loveland,Probable,325
 325,a0U5w00000foiw9EAA,2021-10-27,58,Male,Loveland,Confirmed,326
-326,a0U5w00000foeuoEAA,2021-10-27,75,Male,Wellington,Confirmed,327
-327,a0U5w00000fofLTEAY,2021-10-27,70,Male,Loveland,Confirmed,328
+326,a0U5w00000fofLTEAY,2021-10-27,70,Male,Loveland,Confirmed,327
+327,a0U5w00000foeuoEAA,2021-10-27,75,Male,Wellington,Confirmed,328
 328,a0U5w00000foikCEAQ,2021-10-28,88,Female,Loveland,Confirmed,329
 329,a0U5w00000fojRmEAI,2021-10-28,70,Female,Loveland,Confirmed,330
 330,a0U5w00000folO6EAI,2021-10-28,72,Male,Timnath,Probable,331
-331,a0U5w00000fohHzEAI,2021-10-29,88,Male,Fort Collins,Confirmed,332
+331,a0U5w00000fogoCEAQ,2021-10-29,62,Male,Loveland,Confirmed,332
 332,a0U5w00000fogoDEAQ,2021-10-29,20,Female,Fort Collins,Confirmed,333
-333,a0U5w00000fogoCEAQ,2021-10-29,62,Male,Loveland,Confirmed,334
+333,a0U5w00000fohHzEAI,2021-10-29,88,Male,Fort Collins,Confirmed,334
 334,a0U5w00000foikEEAQ,2021-10-31,91,Female,Estes Park,Confirmed,335
 335,a0U5w00000foikIEAQ,2021-11-01,76,Male,Loveland,Confirmed,336
-336,a0U5w00000fohI0EAI,2021-11-02,72,Female,Fort Collins,Confirmed,337
+336,a0U5w00000fojRjEAI,2021-11-02,82,Female,Fort Collins,Confirmed,337
 337,a0U5w00000foikHEAQ,2021-11-02,96,Female,Fort Collins,Confirmed,338
-338,a0U5w00000fojRjEAI,2021-11-02,82,Female,Fort Collins,Confirmed,339
-339,a0U5w00000folOREAY,2021-11-03,94,Female,Fort Collins,Confirmed,340
-340,a0U5w00000folLdEAI,2021-11-03,63,Female,Lyons,Confirmed,341
-341,a0U5w00000folO1EAI,2021-11-03,89,Female,Loveland,Confirmed,342
+338,a0U5w00000fohI0EAI,2021-11-02,72,Female,Fort Collins,Confirmed,339
+339,a0U5w00000folLdEAI,2021-11-03,63,Female,Lyons,Confirmed,340
+340,a0U5w00000folO1EAI,2021-11-03,89,Female,Loveland,Confirmed,341
+341,a0U5w00000folOREAY,2021-11-03,94,Female,Fort Collins,Confirmed,342
 342,a0U5w00000fojvZEAQ,2021-11-03,68,Male,Loveland,Confirmed,343
 343,a0U5w00000folLcEAI,2021-11-04,91,Male,Loveland,Confirmed,344
-344,a0U5w00000foikDEAQ,2021-11-05,72,Male,Fort Collins,Confirmed,345
-345,a0U5w00000fojvbEAA,2021-11-05,96,Male,Loveland,Confirmed,346
-346,a0U5w00000folLgEAI,2021-11-05,38,Male,Fort Collins,Confirmed,347
-347,a0U5w00000fojRhEAI,2021-11-05,85,Female,Fort Collins,Confirmed,348
-348,a0U5w00000fojRgEAI,2021-11-06,96,Male,Fort Collins,Probable,349
-349,a0U5w00000folZ6EAI,2021-11-06,57,Male,Loveland,Confirmed,350
-350,a0U5w00000fojvWEAQ,2021-11-06,79,Male,Fort Collins,Confirmed,351
-351,a0U5w00000foik7EAA,2021-11-06,71,Male,Windsor,Confirmed,352
+344,a0U5w00000fojvbEAA,2021-11-05,96,Male,Loveland,Confirmed,345
+345,a0U5w00000fojRhEAI,2021-11-05,85,Female,Fort Collins,Confirmed,346
+346,a0U5w00000foikDEAQ,2021-11-05,72,Male,Fort Collins,Confirmed,347
+347,a0U5w00000folLgEAI,2021-11-05,38,Male,Fort Collins,Confirmed,348
+348,a0U5w00000folZ6EAI,2021-11-06,57,Male,Loveland,Confirmed,349
+349,a0U5w00000fojvWEAQ,2021-11-06,79,Male,Fort Collins,Confirmed,350
+350,a0U5w00000foik7EAA,2021-11-06,71,Male,Windsor,Confirmed,351
+351,a0U5w00000fojRgEAI,2021-11-06,96,Male,Fort Collins,Probable,352
 352,a0U5w00000fom5SEAQ,2021-11-07,55,Female,Loveland,Confirmed,353
 353,a0U5w00000folLbEAI,2021-11-07,82,Male,Loveland,Confirmed,354
 354,a0U5w00000folsEEAQ,2021-11-08,68,Female,Fort Collins,Confirmed,355
-355,a0U5w00000fojRlEAI,2021-11-09,88,Male,Fort Collins,Confirmed,356
+355,a0U5w00000folOQEAY,2021-11-09,89,Female,Fort Collins,Confirmed,356
 356,a0U5w00000fonnoEAA,2021-11-09,72,Female,Fort Collins,Confirmed,357
-357,a0U5w00000folOQEAY,2021-11-09,89,Female,Fort Collins,Confirmed,358
+357,a0U5w00000fojRlEAI,2021-11-09,88,Male,Fort Collins,Confirmed,358
 358,a0U5w00000fojRiEAI,2021-11-09,76,Male,Fort Collins,Confirmed,359
-359,a0U5w00000fojvYEAQ,2021-11-10,72,Male,Bellvue,Confirmed,360
-360,a0U5w00000folsJEAQ,2021-11-10,90,Male,Estes Park,Confirmed,361
-361,a0U5w00000fojvXEAQ,2021-11-10,59,Female,Berthoud,Confirmed,362
+359,a0U5w00000folsJEAQ,2021-11-10,90,Male,Estes Park,Confirmed,360
+360,a0U5w00000fojvXEAQ,2021-11-10,59,Female,Berthoud,Confirmed,361
+361,a0U5w00000fojvYEAQ,2021-11-10,72,Male,Bellvue,Confirmed,362
 362,a0U5w00000foo3HEAQ,2021-11-10,72,Male,Loveland,Confirmed,363
 363,a0U5w00000fopz2EAA,2021-11-11,68,Male,Loveland,Confirmed,364
-364,a0U5w00000fopz6EAA,2021-11-11,57,Male,Fort Collins,Probable,365
-365,a0U5w00000folsPEAQ,2021-11-11,66,Male,Loveland,Probable,366
+364,a0U5w00000folsPEAQ,2021-11-11,66,Male,Loveland,Probable,365
+365,a0U5w00000fopz6EAA,2021-11-11,57,Male,Fort Collins,Probable,366
 366,a0U5w00000foqfSEAQ,2021-11-13,55,Male,Loveland,Probable,367
-367,a0U5w00000folO2EAI,2021-11-14,51,Male,Fort Collins,Confirmed,368
-368,a0U5w00000fomLCEAY,2021-11-14,90,Male,Loveland,Confirmed,369
+367,a0U5w00000fomLCEAY,2021-11-14,90,Male,Loveland,Confirmed,368
+368,a0U5w00000folO2EAI,2021-11-14,51,Male,Fort Collins,Confirmed,369
 369,a0U5w00000folsOEAQ,2021-11-15,71,Male,Fort Collins,Confirmed,370
-370,a0U5w00000foo3SEAQ,2021-11-15,80,Female,Loveland,Confirmed,371
-371,a0U5w00000fooCxEAI,2021-11-15,42,Male,Loveland,Confirmed,372
+370,a0U5w00000fooCxEAI,2021-11-15,42,Male,Loveland,Confirmed,371
+371,a0U5w00000foo3SEAQ,2021-11-15,80,Female,Loveland,Confirmed,372
 372,a0U5w00000fousrEAA,2021-11-16,71,Male,Wellington,Confirmed,373
-373,a0U5w00000fooD2EAI,2021-11-16,64,Female,Loveland,Confirmed,374
-374,a0U5w00000foo3REAQ,2021-11-16,66,Male,Loveland,Confirmed,375
+373,a0U5w00000foo3REAQ,2021-11-16,66,Male,Loveland,Confirmed,374
+374,a0U5w00000fooD2EAI,2021-11-16,64,Female,Loveland,Confirmed,375
 375,a0U5w00000fomLDEAY,2021-11-18,88,Male,Timnath,Confirmed,376
-376,a0U5w00000fonnsEAA,2021-11-20,73,Female,Fort Collins,Confirmed,377
-377,a0U5w00000fonnnEAA,2021-11-20,73,Female,Loveland,Confirmed,378
-378,a0U5w00000fopz3EAA,2021-11-20,68,Male,Loveland,Confirmed,379
-379,a0U5w00000fosMgEAI,2021-11-20,43,Female,Loveland,Confirmed,380
-380,a0U5w00000fonoCEAQ,2021-11-20,65,Female,Berthoud,Confirmed,381
+376,a0U5w00000fopz3EAA,2021-11-20,68,Male,Loveland,Confirmed,377
+377,a0U5w00000fonnsEAA,2021-11-20,73,Female,Fort Collins,Confirmed,378
+378,a0U5w00000fonnnEAA,2021-11-20,73,Female,Loveland,Confirmed,379
+379,a0U5w00000fonoCEAQ,2021-11-20,65,Female,Berthoud,Confirmed,380
+380,a0U5w00000fosMgEAI,2021-11-20,43,Female,Loveland,Confirmed,381
 381,a0U5w00000foo3MEAQ,2021-11-22,56,Male,Loveland,Confirmed,382
-382,a0U5w00000foqfQEAQ,2021-11-23,53,Female,Loveland,Confirmed,383
-383,a0U5w00000fopz4EAA,2021-11-23,83,Female,Loveland,Confirmed,384
+382,a0U5w00000fopz4EAA,2021-11-23,83,Female,Loveland,Confirmed,383
+383,a0U5w00000foqfQEAQ,2021-11-23,53,Female,Loveland,Confirmed,384
 384,a0U5w00000fopz5EAA,2021-11-24,81,Male,Loveland,Confirmed,385
 385,a0U5w00000fosbMEAQ,2021-11-25,72,Male,Fort Collins,Confirmed,386
-386,a0U5w00000fosbNEAQ,2021-11-26,77,Male,Loveland,Confirmed,387
+386,a0U5w00000foqC8EAI,2021-11-26,56,Female,Fort Collins,Confirmed,387
 387,a0U5w00000foqC6EAI,2021-11-26,78,Male,Wellington,Confirmed,388
-388,a0U5w00000foqC8EAI,2021-11-26,56,Female,Fort Collins,Confirmed,389
-389,a0U5w00000foqfREAQ,2021-11-27,88,Female,Timnath,Confirmed,390
-390,a0U5w00000fosbOEAQ,2021-11-27,88,Male,Livermore,Probable,391
-391,a0U5w00000foqC7EAI,2021-11-27,59,Female,Fort Collins,Confirmed,392
-392,a0U5w00000foqS8EAI,2021-11-29,79,Male,Loveland,Confirmed,393
-393,a0U5w00000foqS9EAI,2021-11-29,81,Female,Fort Collins,Confirmed,394
-394,a0U5w00000fovUgEAI,2021-11-30,61,Male,Berthoud,Confirmed,395
-395,a0U5w00000fouswEAA,2021-11-30,73,Female,Loveland,Confirmed,396
+388,a0U5w00000fosbNEAQ,2021-11-26,77,Male,Loveland,Confirmed,389
+389,a0U5w00000fosbOEAQ,2021-11-27,88,Male,Livermore,Probable,390
+390,a0U5w00000foqC7EAI,2021-11-27,59,Female,Fort Collins,Confirmed,391
+391,a0U5w00000foqfREAQ,2021-11-27,88,Female,Timnath,Confirmed,392
+392,a0U5w00000foqS9EAI,2021-11-29,81,Female,Fort Collins,Confirmed,393
+393,a0U5w00000foqS8EAI,2021-11-29,79,Male,Loveland,Confirmed,394
+394,a0U5w00000fouswEAA,2021-11-30,73,Female,Loveland,Confirmed,395
+395,a0U5w00000fovUgEAI,2021-11-30,61,Male,Berthoud,Confirmed,396
 396,a0U5w00000fowFCEAY,2021-12-01,44,Male,Loveland,Confirmed,397
 397,a0U5w00000foqzWEAQ,2021-12-01,77,Male,Fort Collins,Confirmed,398
-398,a0U5w00000fot5eEAA,2021-12-02,86,Female,Loveland,Confirmed,399
-399,a0U5w00000fotPCEAY,2021-12-02,55,Female,Loveland,Probable,400
-400,a0U5w00000fot5dEAA,2021-12-02,94,Male,Fort Collins,Confirmed,401
-401,a0U5w00000fovUlEAI,2021-12-02,69,Female,Loveland,Confirmed,402
+398,a0U5w00000fovUlEAI,2021-12-02,69,Female,Loveland,Confirmed,399
+399,a0U5w00000fot5eEAA,2021-12-02,86,Female,Loveland,Confirmed,400
+400,a0U5w00000fotPCEAY,2021-12-02,55,Female,Loveland,Probable,401
+401,a0U5w00000fot5dEAA,2021-12-02,94,Male,Fort Collins,Confirmed,402
 402,a0U5w00000foy2TEAQ,2021-12-04,76,Male,Loveland,Confirmed,403
 403,a0U5w00000fowFDEAY,2021-12-05,71,Female,Loveland,Confirmed,404
 404,a0U5w00000foyJzEAI,2021-12-09,80,Female,Loveland,Confirmed,405
 405,a0U5w00000foyJyEAI,2021-12-10,92,Female,Loveland,Confirmed,406
 406,a0U5w00000foy2YEAQ,2021-12-15,90,Male,Loveland,Probable,407
 407,a0U5w00000foyv9EAA,2021-12-16,93,Female,Loveland,Confirmed,408
-408,a0U5w00000fozXtEAI,2021-12-18,54,Female,Loveland,Confirmed,409
-409,a0U5w00000fozXoEAI,2021-12-18,82,Female,Loveland,Confirmed,410
+408,a0U5w00000fozXoEAI,2021-12-18,82,Female,Loveland,Confirmed,409
+409,a0U5w00000fozXtEAI,2021-12-18,54,Female,Loveland,Confirmed,410
 410,a0U5w00000fp0goEAA,2021-12-20,53,Male,Fort Collins,Confirmed,411
 411,a0U5w00000fozXuEAI,2021-12-21,50,Male,Fort Collins,Probable,412
 412,a0U5w00000fp29rEAA,2021-12-23,87,Male,Fort Collins,Confirmed,413
@@ -423,44 +423,45 @@
 421,a0U5w00000fp2A1EAI,2022-01-04,85,Male,Fort Collins,Confirmed,422
 422,a0U5w00000fp3jrEAA,2022-01-06,88,Female,Fort Collins,Confirmed,423
 423,a0U5w00000fp3jsEAA,2022-01-06,67,Female,Fort Collins,Confirmed,424
-424,a0U5w00000fp3jpEAA,2022-01-09,62,Female,Loveland,Confirmed,425
-425,a0U5w00000fp3juEAA,2022-01-09,45,Male,Loveland,Confirmed,426
+424,a0U5w00000fp3juEAA,2022-01-09,45,Male,Loveland,Confirmed,425
+425,a0U5w00000fp3jpEAA,2022-01-09,62,Female,Loveland,Confirmed,426
 426,a0U5w00000fp7XaEAI,2022-01-11,76,Male,Fort Collins,Confirmed,427
 427,a0U5w00000fp4VVEAY,2022-01-11,85,Female,Fort Collins,Confirmed,428
 428,a0U5w00000fp7XUEAY,2022-01-12,89,Female,Fort Collins,Confirmed,429
 429,a0U5w00000fp55DEAQ,2022-01-13,38,Female,Loveland,Confirmed,430
-430,a0U5w00000fp7XSEAY,2022-01-16,53,Male,Fort Collins,Confirmed,431
-431,a0U5w00000fp7XPEAY,2022-01-16,55,Male,Loveland,Confirmed,432
-432,a0U5w00000fp558EAA,2022-01-16,82,Male,Fort Collins,Confirmed,433
+430,a0U5w00000fp7XPEAY,2022-01-16,55,Male,Loveland,Confirmed,431
+431,a0U5w00000fp558EAA,2022-01-16,82,Male,Fort Collins,Confirmed,432
+432,a0U5w00000fp7XSEAY,2022-01-16,53,Male,Fort Collins,Confirmed,433
 433,a0U5w00000fp5bGEAQ,2022-01-17,79,Female,Loveland,Confirmed,434
 434,a0U5w00000fp9wpEAA,2022-01-18,72,Male,Loveland,Confirmed,435
 435,a0U5w00000fp9wnEAA,2022-01-18,81,Male,Fort Collins,Confirmed,436
-436,a0U5w00000fpB6kEAE,2022-01-19,90,Female,Fort Collins,Confirmed,437
-437,a0U5w00000fp7XZEAY,2022-01-19,76,Male,Loveland,Confirmed,438
+436,a0U5w00000fp5bBEAQ,2022-01-19,81,Male,Berthoud,Confirmed,437
+437,a0U5w00000fpB6kEAE,2022-01-19,90,Female,Fort Collins,Confirmed,438
 438,a0U5w00000fp7XREAY,2022-01-19,76,Female,Loveland,Confirmed,439
-439,a0U5w00000fp5bBEAQ,2022-01-19,81,Male,Berthoud,Confirmed,440
+439,a0U5w00000fp7XZEAY,2022-01-19,76,Male,Loveland,Confirmed,440
 440,a0U5w00000fp7ymEAA,2022-01-20,67,Male,Loveland,Confirmed,441
 441,a0U5w00000fp5b6EAA,2022-01-20,99,Male,Berthoud,Confirmed,442
 442,a0U5w00000fp7XTEAY,2022-01-21,80,Male,Berthoud,Confirmed,443
 443,a0U5w00000fp9wsEAA,2022-01-22,92,Female,Loveland,Confirmed,444
-444,a0U5w00000fp5bHEAQ,2022-01-23,93,Male,Loveland,Confirmed,445
-445,a0U5w00000fp7ynEAA,2022-01-23,73,Female,Loveland,Confirmed,446
-446,a0U5w00000fp7XQEAY,2022-01-23,77,Male,Fort Collins,Confirmed,447
+444,a0U5w00000fp7ynEAA,2022-01-23,73,Female,Loveland,Confirmed,445
+445,a0U5w00000fp7XQEAY,2022-01-23,77,Male,Fort Collins,Confirmed,446
+446,a0U5w00000fp5bHEAQ,2022-01-23,93,Male,Loveland,Confirmed,447
 447,a0U5w00000fp7ylEAA,2022-01-24,64,Female,Fort Collins,Confirmed,448
 448,a0U5w00000fp9woEAA,2022-01-26,94,Male,Loveland,Confirmed,449
-449,a0U5w00000fpBo9EAE,2022-01-26,95,Male,Fort Collins,Confirmed,450
-450,a0U5w00000fp9wiEAA,2022-01-26,56,Male,Fort Collins,Confirmed,451
-451,a0U5w00000fp9wzEAA,2022-01-27,74,Female,Loveland,Confirmed,452
-452,a0U5w00000fp9wxEAA,2022-01-27,94,Male,Loveland,Confirmed,453
-453,a0U5w00000fp9x1EAA,2022-01-27,100,Female,Fort Collins,Probable,454
+449,a0U5w00000fp9wiEAA,2022-01-26,56,Male,Fort Collins,Confirmed,450
+450,a0U5w00000fpBo9EAE,2022-01-26,95,Male,Fort Collins,Confirmed,451
+451,a0U5w00000fp9x1EAA,2022-01-27,100,Female,Fort Collins,Probable,452
+452,a0U5w00000fp9wzEAA,2022-01-27,74,Female,Loveland,Confirmed,453
+453,a0U5w00000fp9wxEAA,2022-01-27,94,Male,Loveland,Confirmed,454
 454,a0U5w00000fp9x0EAA,2022-01-29,54,Female,Laporte,Confirmed,455
-455,a0U5w00000fp9wqEAA,2022-01-29,43,Female,Fort Collins,Confirmed,456
-456,a0U5w00000fp9wrEAA,2022-01-29,87,Female,Estes Park,Confirmed,457
-457,a0U5w00000fpAoPEAU,2022-01-29,55,Male,Wellington,Confirmed,458
-458,a0U5w00000fp9wyEAA,2022-01-29,87,Male,Berthoud,Confirmed,459
-459,a0U5w00000fpAoNEAU,2022-01-31,84,Male,Fort Collins,Confirmed,460
-460,a0U5w00000fpAoIEAU,2022-01-31,50,Male,Berthoud,Confirmed,461
-461,a0U5w00000fpAoDEAU,2022-02-03,90,Female,Estes Park,Confirmed,462
-462,a0U5w00000fpAoOEAU,2022-02-03,94,Female,Berthoud,Confirmed,463
-463,a0U5w00000fpBnzEAE,2022-02-05,89,Male,Fort Collins,Confirmed,464
-464,a0U5w00000fpBzMEAU,2022-02-06,74,Female,Loveland,Probable,465
+455,a0U5w00000fp9wyEAA,2022-01-29,87,Male,Berthoud,Confirmed,456
+456,a0U5w00000fp9wqEAA,2022-01-29,43,Female,Fort Collins,Confirmed,457
+457,a0U5w00000fp9wrEAA,2022-01-29,87,Female,Estes Park,Confirmed,458
+458,a0U5w00000fpAoPEAU,2022-01-29,55,Male,Wellington,Confirmed,459
+459,a0U5w00000fpAoIEAU,2022-01-31,50,Male,Berthoud,Confirmed,460
+460,a0U5w00000fpAoNEAU,2022-01-31,84,Male,Fort Collins,Confirmed,461
+461,a0U5w00000iX2PbEAK,2022-02-02,53,Male,Red Feather Lakes,Confirmed,462
+462,a0U5w00000fpAoDEAU,2022-02-03,90,Female,Estes Park,Confirmed,463
+463,a0U5w00000fpAoOEAU,2022-02-03,94,Female,Berthoud,Confirmed,464
+464,a0U5w00000fpBnzEAE,2022-02-05,89,Male,Fort Collins,Confirmed,465
+465,a0U5w00000fpBzMEAU,2022-02-06,74,Female,Loveland,Probable,466
