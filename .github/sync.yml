@@ -1,4 +1,4 @@
 codyish/codyish.github.io:
   - source: larimer_fig_docs/
-    dest: docs/ 
+    dest: docs/larimer_fig_docs
   
