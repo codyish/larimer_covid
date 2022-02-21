@@ -1,6 +1,5 @@
-# theme: jekyll-theme-cayman
-# name: Larimer Covid Data
-# title: null
+remote_theme: codyish/themio
+name: Larimer Covid Data
+title: null
 
-# github:
-#   is_project_page: false
+
